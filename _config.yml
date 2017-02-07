@@ -1,0 +1,43 @@
+#Jekyll config file
+
+# Basics
+name: Sergi Xaudiera
+author: Sergi Xaudiera
+title: Sergi Xaudiera
+description: "My little space on the big internet"
+
+# Images
+logo: http://sergixaudiera.com/img/profile_mini.jpg
+
+# RDFa structured data
+job_title: Digital Strategist
+employer: Government of Catalonia
+url: "http://sergixaudiera.com"
+location:
+  city: Barcelona
+  country: Catalonia
+
+# Social metadata (JSON-LD)
+social:
+  name: Sergi Xaudiera
+  links:
+    - https://twitter.com/SergiXaudiera
+    - https://www.linkedin.com/in/SergiXaudiera
+    - https://github.com/SergiXaudiera
+
+# Misc
+twitter:
+  username: "@SergiXaudiera"
+ga_username: "UA-6956115-2"
+google_site_verification : "7mh8sondnlpZaClsH0tNSkBdQIKPXMlYnrvO7KDYPuM"
+
+#permalink structure, see https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink: /:year/:title/
+
+gems:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+
+sass:
+  style: :compressed

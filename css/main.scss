@@ -1,0 +1,134 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+$white 		: #FFF;
+$black 		: #333;
+$gray			: #fcfcfa;
+$blue			: #5992C2;
+$violet		: #6967CB;
+$green		: #54C899;
+$yellow 	: #FDFD96;
+$orange 	: #FFC16B;
+
+body {
+	background: $gray;
+	color: $black;
+  font-family: "PT Sans", sans-serif;
+  font-size: 0.95em;
+  line-height: 1.5em;
+  text-rendering: optimizeLegibility;
+  //letter-spacing: letter-spacing;
+  //font-spacing: normal;
+}
+
+.page-wrapper {
+	max-width: 720px;
+	margin: 0 auto;
+	padding: 0 14px;
+
+	@media screen and (max-width: 800px) {
+		width: 96%;
+		margin: auto;
+	}
+}
+
+img {
+	max-width: 600px;
+	display: block;
+  margin: 0 auto;
+  @media screen and (max-width: 800px) {
+  	width: 100%;
+  }
+}
+
+.portada {
+	font-weight: 500;
+	font-size: 17px;
+	line-height: 1.5em;
+	margin-top: 120px;
+	a {
+		color: $blue;
+	}
+	a:not(:hover) {
+		text-decoration: none;
+	}
+}
+
+header {
+	margin-bottom: 24px;
+	transition: all .8s ease-in-out;
+	a {
+		color: $blue;
+		padding:0 0.4em;
+	}
+	a:not(:hover) {
+		text-decoration: none;
+	}
+}
+
+.high {
+	font-size: 23px;
+	line-height: 1.2em;
+	margin-bottom: 40px;
+}
+
+h1 {
+	font-size: 2em;
+  font-weight: 300;
+  letter-spacing: -2px;
+  margin: .3em 0 .1em 0;
+}
+
+h2 {
+	font-size: 1.2em;
+  font-weight: 400;
+  letter-spacing: -1px;
+  margin: .3em .3em .1em 0;
+}
+
+.post {
+	//text-align: justify;
+	margin-bottom: 12px;
+}
+
+.subscribe {
+	margin: 2em 0;
+	min-height: 40px;
+	//background-color: $violet;
+	border-top: 1px solid $blue;
+	//border-bottom: 1px solid $white;	
+}
+
+a:hover {
+    background: $yellow;
+    border-bottom: 2px $yellow solid;
+}
+
+::selection {
+    background: $green;
+}
+
+time {
+	font-size: 0.8em;
+}
+
+blockquote {
+  background: $white;
+  border-left: 10px solid $blue;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+blockquote:before {
+  color: $blue;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.15em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+}

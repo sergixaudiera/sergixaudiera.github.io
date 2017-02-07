@@ -1,0 +1,6 @@
+Sitemap: http://sergixaudiera.com/sitemap.xml
+
+User-agent: *
+Disallow: /img/
+Disallow: /tag/
+Disallow: /page
