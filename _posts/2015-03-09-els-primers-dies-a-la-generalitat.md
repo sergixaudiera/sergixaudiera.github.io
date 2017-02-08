@@ -2,8 +2,6 @@
 layout: post
 title: Els primers dies a la Generalitat
 date: 2015-03-06 14:55
-comments: true
-categories: [pro]
 ---
 El dia 1 de març de 2010, va ser el meu primer dia de feina a la redacció [gencat](http://gencat.cat). Feia pocs mesos que havia tornat de Londres, on havia estat treballant a [We Are Social](http://wearesocial.net), i vaig tenir la sort de poder cobrir temporalment una vacant. Les meves tasques eren maquetar webs especials en hmtl i css.
 
@@ -40,4 +38,3 @@ Des de llavors treballo a l'equip de xarxes socials. Abans de la nevada ja hi ha
 La primera tasca en la que vaig poder treballar va ser la **Guia de xarxes socials de la Generalitat de Catalunya**. Necessitàvem un marc funcional on encaixar la solució corportavia, un document que recollís com havia de ser la presència del govern de Catalunya a les xarxes socials. La redacció va ser un procés llarg en el que hi van col·laborar persones de diferents àrees. 
 
 En pocs dies vaig passar de barallar-me amb l'internet explorer pel seu poc amor a les meves css, a participar en la creació de les bases de la presència de la Generalitat de Catalunya a les xarxes socials. 
-

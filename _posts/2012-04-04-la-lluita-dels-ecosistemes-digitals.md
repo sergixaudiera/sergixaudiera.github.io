@@ -11,7 +11,7 @@ Els orígens de la internet moderna es basava en intercanvi de continguts public
 Amb el temps la xarxa es fa més senzilla i qualsevol pot generar continguts al mateix moment que en consumeix. Aquest fenomen de capacitació de l’usuari mig es coneix com la web 2.0 en que les xarxes socials cobren un paper rellevant. Amb l’auge d’aquestes noves plataformes de publicació de continguts i l’augment dels punts d’accés (portàtils, smartphones, tauletes, televisió, …) internet viu un creixement exponencial.
 
 ## Plataformes digitals tancades
-Actualment, <a title="Plataformas digitales emergentes y cultura abierta" href="http://nomada.blogs.com/jfreire/2012/01/plataformas-digitales-emergentes-y-cultura-abierta.html" target="_blank">reutilitzant la classificació d’en Juan Freire</a>, trobem tres** plataformes digitals (infraestructures a les que s’ofereixen servies) que estan emergint com els espais principals de producció de coneixement i interacció digital**:
+Actualment [reutilitzant la classificació d’en Juan Freire](http://nomada.blogs.com/jfreire/2012/01/plataformas-digitales-emergentes-y-cultura-abierta.html) , trobem tres** plataformes digitals (infraestructures a les que s’ofereixen servies) que estan emergint com els espais principals de producció de coneixement i interacció digital**:
 
 * les **xarxes socials**
 * els **serveis al núvol**

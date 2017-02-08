@@ -2,9 +2,8 @@
 layout: post
 title: Com fem servir github per la guia gencat
 date: 2015-11-18 17:20
-categories: [pro]
 ---
->Aquesta entrada va ser publicada originalment al [gencat blog](http://generalitat.blog.gencat.cat/2015/11/26/github-per-obrir-els-continguts-de-la-guia-de-xarxes-socials/)
+*Aquesta entrada va ser publicada originalment al [gencat blog](http://generalitat.blog.gencat.cat/2015/11/26/github-per-obrir-els-continguts-de-la-guia-de-xarxes-socials/)*
 
 A l'hora de publicar la setena edició de la Guia de xarxes socials de la Generalitat de Catalunya es va pensar de fer-ho també en un format més accessible que no pas les anteriors, publicades només en format tancat pdf.
 
@@ -19,4 +18,3 @@ Github és conscient que els governs en fan ús. Per això ha obert d'[un grup](
 Així doncs, a partir d'ara, qualsevol organització que vulgui crear la seva guia de xarxes socials a partir de l'exemplar de la Generalitat, només cal que cloni el repositori i ja diposarà d'una base per començar.
 
 Amb tot, encara es continua difonent en format pdf per a qui hi estigui interessat a consultar-la en aquest format.
-

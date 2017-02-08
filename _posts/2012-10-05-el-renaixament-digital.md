@@ -2,8 +2,6 @@
 layout: post
 title: El renaixament digital
 date: 2012-10-05 09:31
-comments: true
-categories: [pro]
 ---
 Des de fa un parell de setmanes, sóc un dels milers d'alumnes de Coursera. Les classes que han despertat el meu interès (Computing for Data Analysis i Social Network Analysis) compleixen, de moment,  les expectatives amb les que m’hi vaig apuntar. Tot i que no deixen de ser un conjunt de continguts que es troben per internet  de manera desordenada (n’hi ha algun que no hi sigui?).
 

@@ -2,12 +2,10 @@
 layout: post
 title: Els dilluns Gandhi no parlava
 date: 2011-11-22 10:00
-comments: true
-categories: [pro]
 ---
-Jo tampoc sabia que el dilluns Gandhi no parlava, vaig conèixer aquest fet, fa uns dies, gràcies a un article publicat en el <a title="Diari Ara" href="http://www.ara.cat/premium/cultura/dilluns-Gandhi-no-parlava_0_554344613.html">Diari Ara</a> i em va semblar una gran idea. L'admirat personatge indi (1869 -1948) duia a terme aquest dejuni de paraules, per tal de poder-se concentrar en les idees pròpies i reflexionar sobre els coneixements adquirits.
+Jo tampoc sabia que el dilluns Gandhi no parlava, vaig conèixer aquest fet, fa uns dies, gràcies a un article publicat pel Diari Ara i em va semblar una gran idea. L'admirat personatge indi (1869 -1948) duia a terme aquest dejuni de paraules, per tal de poder-se concentrar en les idees pròpies i reflexionar sobre els coneixements adquirits.
 
-Més de 20 anys després de la mort de Gandhi, apareix per primera vegada el terme <a title="Infoxicació" href="http://ca.wikipedia.org/wiki/Infoxicaci%C3%B3">infoxicació</a>, fent referència a la sobrecàrrega informativa, en bona part deguda als avanços tecnològics que ja per aquella època començaven a permetre una gran difusió dels missatges.
+Més de 20 anys després de la mort de Gandhi, apareix per primera vegada el terme infoxicació, fent referència a la sobrecàrrega informativa, en bona part deguda als avanços tecnològics que ja per aquella època començaven a permetre una gran difusió dels missatges.
 
 És curiós observar com un problema de tanta actualitat com és l'excés d'informació era ja un mal de cap fa més de 100 anys.
 
@@ -20,7 +18,3 @@ Les xarxes socials ben utilitzades poden ser una font important d'informació re
 Una possible solució per optimitzar millor aquestes excel·lents eines de relació podria ser disminuir el volum de continguts, lectures, o atenció que destinem a un gran nombre de continguts de baixa qualitat i dedicar més temps a estudiar i reflexionar sobre aquells que realment aporten un coneixement amb valor afegit. En la transició dels blogs cap a les xarxes socials i la seva immedietesa segurament hem perdut una part de l'escència 2.0 de compartir contignuts de qualitat i reflexionats, envers a compartir un major nombre de continguts de baixa qualitat.
 
 Recordem que els continguts a internet són infinits però no així el temps, i aquest és el recurs més valuós del que disposem.
-
-pd: deixo una imatge amb alguns consells per concentrar-se en l'era de la distracció
-
-<a title="How to focus in the age of distraction" href="http://www.ritholtz.com/blog/wp-content/uploads/2011/09/distractions.jpg"><img src="http://www.ritholtz.com/blog/wp-content/uploads/2011/09/distractions.jpg" alt="How to focus in the age of distraction" width="650px" /></a>

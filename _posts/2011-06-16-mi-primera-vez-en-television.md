@@ -2,8 +2,6 @@
 layout: post
 title: Mi primera vez en televisión
 date: 2011-06-16 15:56
-comments: true
-categories: [pro]
 ---
 Con sudores fríos y algunos nervios, participe en la mesa redonda ¿Cómo será el teléfono del futuro? en la sección de economía y consumo del magazín 'Para Todos La 2' que se emite de lunes a viernes al mediodía.
 

@@ -7,7 +7,6 @@ categories: [pro]
 ---
 ![% Equipo Go Find It](/img/200907_teamGFI2.png)
 
-
 Querido lector,
 
 si eres uno de los 173 afortunados que me  siguen en twitter ya sabrás que vuelvo a ser becario, esta vez pero  un poco más lejos de casa, gracias a las becas faro estoy  trabajando en [We Are Social](http://wearesocial.net) .

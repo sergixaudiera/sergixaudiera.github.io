@@ -2,10 +2,7 @@
 layout: post
 title: La revolució Internet
 date: 2011-05-18 17:48
-comments: true
-categories: [pro]
 ---
-
 Hola,
 
 segurament durant les últimes setmanes has sentit parlar a molts experts sobre la importància d'Internet en les revolucions socials dels últims temps, i del gran poder que han exercit les xarxes socials, com a canals d'informació. Després de tota aquesta informació potser encara no has entès  el paper d'Internet i les xarxes socials en tots aquests moviments. Si és així si us plau llegeix el text, i podràs entendre que Facebook no només es fa servir per publicar fotos de la festa del dissabte a la nit ni Twitter per llegir les tonteries de futbolistes i famosos. Tot seguit t'intento explicar des del meu -humil- punt de vista de què va això d’Internet i perquè s'ha convertit en una eina tant important.

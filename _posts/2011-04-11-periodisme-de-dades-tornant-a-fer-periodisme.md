@@ -2,10 +2,7 @@
 layout: post
 title: Periodisme de dades, tornant a fer periodisme
 date: 2011-04-11 11:47
-comments: true
-categories: [pro]
 ---
-
 Com pot estar en perill el periodisme en el moment en què la societat consumeix més continguts periodístics?
 
 Portem ja un temps reflexionant sobre el futur del periodisme més enllà del canal i el format en què s'exerceixi la professió. Avui en dia amb les llistes de l'atur plenes de periodistes i afortunat el diari que només ha de retallar personal, sembla ser que els pares dels joves estudiants de batxillerat, que han de decidir 'què volen ser de grans', no deuen aconsellar periodisme per les seves sortides professionals.

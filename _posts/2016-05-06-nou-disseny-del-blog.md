@@ -2,7 +2,6 @@
 layout: post
 title: Nou disseny del blog
 date: 2016-05-06 14:15
-categories: [pro]
 ---
 M'agrada experimentar amb el disseny del blog. Avui estreno nova plantilla i aprofito per repassar els canvis que hi ha hagut des de 2007 en aquest espai.
 

@@ -2,8 +2,6 @@
 layout: post
 title: Habilitats del periodista de dades
 date: 2011-04-11 11:50
-comments: true
-categories: [pro]
 ---
 Quines són les habilitats que hauria de tenir una persona que es vulgui dedicar al periodisme de dades?  Espero que entre tots poguem aconseguir una classificació amb les habilitats més comunes. Degut a que actualment poques persones reuneixen totes les habilitats, els equips de periodsme de dades el formen 3 rols diferents,  que en un futur molt pròxim seran cada vegada més híbrids.
 
@@ -26,4 +24,3 @@ Quines són les habilitats que hauria de tenir una persona que es vulgui dedicar
 - Mashup, mashup, mashup, ... creuar creuar creuar, dades, aplicacions, reinterpretar, ...
 
 Post inspirat en *How to be a data journalism* de Paul Bradshaw, autèntic referent en periodisme de dades.
-

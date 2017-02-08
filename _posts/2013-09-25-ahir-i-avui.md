@@ -2,8 +2,6 @@
 layout: post
 title: Ahir i avui
 date: 2013-09-25 14:54
-comments: true
-categories: [pro]
 ---
 Ahir ens passàvem llargues hores xatejant al Mirc amb desconeguts, avui compartim fotos de peus a la platja, el que mengem i el que correm a les xarxes socials amb desconeguts.
 

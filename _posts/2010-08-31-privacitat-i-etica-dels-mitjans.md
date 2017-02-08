@@ -2,10 +2,7 @@
 layout: post
 title: Privacitat i ètica dels mitjans de comunicació
 date: 2010-08-31 15:10
-comments: true
-categories: [pro]
 ---
-
 Darrerament hem pogut observar com diferents mitjans de comunicació han publicat fotos de víctimes d'accidents provinents de les xarxes socials, especialment de Facebook.
 
 Aquest fet ens hauria de fer reflexionar sobre l'ètica del periodisme i  dels continguts que utiltiza per comercialitzar i generar negoci. Tots sabem, o hauriem de saber, dels perills i de la cessió de drets que realitzem en el moment que acceptem de carregar contingut personal en qualsevol xarxa social.

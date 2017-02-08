@@ -17,4 +17,3 @@ En estas fechas uno de los temas más recurrentes en toda la blogosfera es el de
 10- **Ordenar todo el contenido que he generado en la web en mi página web personal**. Si lo que queremos es gestionar reputación online debemos empezar por la nuestra propia.  
 11- **No perder el contacto con mis compañeros de universidad**. 5 años es mucho tiempo.  
 12- **Más tiempo con los mios.** Pues son los que dan sentido a muchas cosas y ayudan a recordar de donde venimos.  
-

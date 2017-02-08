@@ -2,8 +2,6 @@
 layout: post
 title: Perquè no et segueixo a Twitter
 date: 2015-06-17 17:20
-comments: true
-categories: [pro]
 ---
 Durant les últimes setmanes algunes persones m'han demanat perquè no les segueixo a Twitter. La millor manera que he trobat de respondre a la pregunta és explicant com utilitzo aquesta eina (Twitter).  
 
@@ -22,4 +20,3 @@ A més de la gent a qui segueixo també llegeixo a més persones. Aquestes perso
 Tan important és el que diem com el que fem. Com ja sabeu sóc un gran seguidor de Tweetdeck, a més de la possibilitat de configurar columnes amb llistes o cerques, hi ha l'opció de crear una columna amb l'activitat de les persones a qui seguim. Així en aquesta columna puc veure de manera detallada l'activitat de la gent a qui segueixo. Això em permet descobrir més informació sense sortir de l'entorn.  
 
 En resum, Twitter és per mi una font bàsica d'informació en temps real. És l'eina que acompanya qualsevol esdeveniment mediàtic important que complementa l'experiència. És el meu *hub* principal d'informació i de tal manera l'utilitzo. Pels aspectes més personals són unes altres les eines que utilitzo.  
-

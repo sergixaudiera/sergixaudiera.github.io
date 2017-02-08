@@ -2,12 +2,10 @@
 layout: post
 title: La brossa digital
 date: 2014-07-28 17:08
-comments: true
-categories: [pro]
 ---
 La sostenibilitat és un dels conceptes més utilitzat en el nostre dia a dia. Moltes vegades relacionat amb l'ecologia, i els recursos naturals de la Terra, però avarca qualsevol dels serveis que ofereix la societat. La definició de la viquipèdia:
 
-> La sostenibilitat consisteix a proveir el millor possible avui sense posar en perill els recursos de demà.
+*La sostenibilitat consisteix a proveir el millor possible avui sense posar en perill els recursos de demà.*
 
 En el sector digital, s'ha aplicat el concepte de sostenibilitat especialment per millor l'eficiència monetària. Reduir la utilització de recursos per estalviar ampla de banda, espai en el servidor, baixar el temps de carrega del web, ...
 

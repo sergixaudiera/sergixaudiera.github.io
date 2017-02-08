@@ -2,8 +2,6 @@
 layout: post
 title: El mix deseado entre celebridades y community managers
 date: 2009-12-03 17:21
-comments: true
-categories: [pro]
 ---
 Cada día más deportistas profesionales deciden apostar por acciones online más allá de su web oficial. En los últimos días Andrés Iniesta, con su twitter y página en facebook, se ha juntado a los ya presentes Ricky Rubio o Rudy Fernández. En los Estados Unidos, como siempre van un par de años delante nuestro, y su implantación es muy grande entre los jugadores de todos los deportes, incluso la NBA ha creado políticas y normas para estar presente en las distintas redes sociales (ya ha llegado a multar a un par de jugadores para actualizar su twitter durante un partido).
 
