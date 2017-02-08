@@ -2,8 +2,6 @@
 layout: post
 title: Administració en xarxa
 date: 2011-09-22 00:01
-comments: true
-categories: [pro]
 ---
 La setmana passada vam explicar l'experiència de la <a href="http://sergixaudiera.com/2010/la-generalitat-a-les-xarxes-socials/">Generalitat de Catalunya</a> amb els companys del Conversion Thursday Barcelona. Com podeu veure a la presentació, el plantejament va ser molt introductori, però va donar temps a explicar el concepte d'Administració en xarxa (tot parlant d'open data i social media).
 

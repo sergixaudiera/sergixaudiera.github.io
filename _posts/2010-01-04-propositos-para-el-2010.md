@@ -2,12 +2,10 @@
 layout: post
 title: Própositos para el 2010
 date: 2010-01-04 13:16
-comments: true
-categories: [institut]
 ---
 En estas fechas uno de los temas más recurrentes en toda la blogosfera es el de los própositos para el nuevo año que hemos estrenado, por primera vez voy a compartir mis objetivos para este periodo.
 
-1- **Aprender más**. Día a día, leyendo blogs y tuits, con los enlaces que compartís en delicious y también de forma más “reglada”, en febrero voy a empezar el máster de SIC (Sociedad de la Información y el Conocimiento) en la UOC.  
+1- **Aprender más**. Día a día, leyendo blogs y tuits, con los enlaces que compartís en delicious y también de forma más “reglada”, en febrero voy a empezar el máster de SIC (Sociedad de la Información y el Conocimiento) en la UOC.   
 2- **Desvirtualizar y asisitir a más eventos.** El año pasado pude desvirtualizar algunos de vosotros, pero aún son escasos. También pretendo asistir a más eventos, siempre que pueda, son el mejor sitio para realizar un buen networking.  
 3- **Experiencia profesional estimulante.** Desearía poder trabajar en algun proyecto que me resulte estimulante y me permita aprender alguna cosa nueva cada día. El año pasado este periodo se vio culminado con la estancia de 4 meses en We Are Social. (A poder ser remunerado ;)).  
 4- **Seguir practicando deporte, por lo menos 5 días la semana**. Uno de los mejores hábitos, jugar a basket, correr, nedar y ahora incluso saunas. Seguir con ello.  
