@@ -25,9 +25,5 @@ Quines són les habilitats que hauria de tenir una persona que es vulgui dedicar
 - Capacitat per treballar amb informació proporcionada amb formats estàndars, html, rss, ...
 - Mashup, mashup, mashup, ... creuar creuar creuar, dades, aplicacions, reinterpretar, ...
 
-Post inspirat en '<a href="http://www.guardian.co.uk/news/datablog/2010/oct/01/data-journalism-how-to-guide">How to be a data journalism</a>' de <a href="https://twitter.com/#paulbradshaw">Paul Bradshaw,</a> autèntic referent en periodisme de dades.
+Post inspirat en *How to be a data journalism* de Paul Bradshaw, autèntic referent en periodisme de dades.
 
-També us deixo una presentació en la que s'explica com funciona la divisió de periodisme de dades del The New York Times.
-<div id="__ss_5057385" style="width: 100%;"><strong style="display: block; margin: 12px 0 4px;"><a title="Data Driven Journalism - Telling Stories Online" href="http://www.slideshare.net/amclean/data-driven-journalism-telling-stories-online">Data Driven Journalism - Telling Stories Online</a>** <iframe src="http://www.slideshare.net/slideshow/embed_code/5057385" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="425" height="355"></iframe>
-<div style="padding: 5px 0 12px;">View more <a href="http://www.slideshare.net/">presentations</a> from <a href="http://www.slideshare.net/amclean">amclean</a></div>
-</div>

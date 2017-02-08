@@ -5,13 +5,9 @@ date: 2010-12-24 00:27
 comments: true
 categories: [pro]
 ---
-<a href="http://www.flickr.com/photos/roscoe/3885265333/" title="football and twitter by arellis49, on Flickr"><img src="http://farm3.static.flickr.com/2548/3885265333_e1fd89c55e.jpg" width="500" height="375" alt="football and twitter" /></a>
 
 Tengo el placer de compartir con vosotros el documento que hemos realizado durante las últimas semanas un grupo de inquietos digitales, en el que cada uno de nosotros expone sus visiones para el año que estamos a punto de estrenar en el campo de los deportes y los social media.
 
-<div id="__ss_6333193" style="width: 477px;">**<a title="Social Media Sports Predictions 2011" href="http://www.slideshare.net/sergixaudiera/smsports-cast">Social Media Sports Predictions 2011</a>**<object id="__sse6333193" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="477" height="510" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><param name="src" value="http://static.slidesharecdn.com/swf/doc_player.swf?doc=smsportscast-101223125905-phpapp01&amp;stripped_title=smsports-cast&amp;userName=sergixaudiera" /><param name="name" value="__sse6333193" /><param name="allowfullscreen" value="true" /><embed id="__sse6333193" type="application/x-shockwave-flash" width="477" height="510" src="http://static.slidesharecdn.com/swf/doc_player.swf?doc=smsportscast-101223125905-phpapp01&amp;stripped_title=smsports-cast&amp;userName=sergixaudiera" name="__sse6333193" allowscriptaccess="always" allowfullscreen="true"></embed></object>
-<div style="padding: 5px 0 12px;">View more <a href="http://www.slideshare.net/">documents</a> from <a href="http://www.slideshare.net/sergixaudiera">Sergi Xaudiera</a>.</div>
-</div>
 
 A continuación les dejo con mi parte, que como todas las predicciones son una mezcla de intuición y deseo.
 

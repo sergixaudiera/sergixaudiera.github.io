@@ -6,7 +6,7 @@ comments: true
 categories: [institut]
 ---
 
-Llevo unos días con poca actividad  debido a que he estado muy ocupado iniciando un proyecto. Les presento <a title="social media sports sportists on twitter" href="http://numballs.com" target="_blank">socialmediasports.com </a>una web en donde quiero listar a los deportistas que usan twitter.  Mi intención es la de crear el directorio de deportistas profesionales  que usan twitter.
+Llevo unos días con poca actividad  debido a que he estado muy ocupado iniciando un proyecto. Les presento socialmediasports.com una web en donde quiero listar a los deportistas que usan twitter.  Mi intención es la de crear el directorio de deportistas profesionales  que usan twitter.
 
 Este proyecto vive por y para  twitter, mi principal objetivo es acercar las estrellas del deporte a  sus aficionados y permitir a estos conocer el lado más humano de los  deportistas, como podéis leer en el titulo de la web “where the stars  becoming human happens” aprovechando el famoso “where amazing happens”  de la NBA.
 

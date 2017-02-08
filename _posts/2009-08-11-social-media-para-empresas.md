@@ -5,7 +5,6 @@ date: 2009-08-11 14:26
 comments: true
 categories: [fast]
 ---
-<embed src="http://blip.tv/play/imCBk75FAg" type="application/x-shockwave-flash" width="480" height="367" allowscriptaccess="always" allowfullscreen="true"></embed>
 
 Querido lector,
 

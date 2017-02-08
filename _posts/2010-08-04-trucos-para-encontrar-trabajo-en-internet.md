@@ -5,7 +5,6 @@ date: 2010-08-04 17:11
 comments: true
 categories: [fast]
 ---
-<img src="http://farm8.staticflickr.com/7147/6749663099_0da2c12064.jpg" width="500" height="280" alt="old hairdresser sleeping at work">
 
 Encontrar trabajo se ha convertido en una de las grandes preocupaciones actuales de nuestra sociedad. Me gustaría compartir con todos vosotros algunos consejos que a mi me fueron útiles durante este proceso:
 
