@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 <section>
-    {% for post in site.categories.pro %}
+    {% for post in site.posts %}
     {% unless post.next %}
     	 <h2>{{ post.date | date: '%Y' }}</h2>
     {% else %}
