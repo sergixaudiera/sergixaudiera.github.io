@@ -20,7 +20,9 @@ Leverage data in innovative ways.
 [Social Media Guide](https://github.com/gencat/guia-xarxes) : open source project - A very useful tool for those who coordinate social accounts. It is being used by other organizations as well.  
 
 ## Workshops
-- 2011/04: Workshop: [Los organismos de consumos en la sociedad de la información](/docs/20110427_curs_consum.pdf).  
+- 2017/01: [Congrés Govern Digital](/2017/congres-govern-digital/)
+- 2011/04: [Los organismos de consumos en la sociedad de la información](/docs/20110427_curs_consum.pdf).  
+
 
 ## Media
 - 2014/10: [Xarxes madures](http://www.periodistes.org/ca/article/xarxes-madures-248.html). Revista Capçalera del Col·legi de Periodistes de Catalunya.  
