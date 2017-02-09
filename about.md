@@ -21,6 +21,7 @@ Leverage data in innovative ways.
 
 ## Workshops
 - 2017/01: [Congrés Govern Digital](/2017/congres-govern-digital/)
+- 2012/03: [UOCMeet - Open Government](http://social.alumni.uoc.edu/uocmeet/2012/03/28/uocmeet-open-government/)
 - 2011/04: [Los organismos de consumos en la sociedad de la información](/docs/20110427_curs_consum.pdf).  
 
 
