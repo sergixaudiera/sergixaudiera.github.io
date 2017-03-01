@@ -3,9 +3,9 @@ layout: page
 title: Blog
 permalink: /blog/
 ---
-<section>
+<section class="posts">
   {% for post in site.posts %}
-		<time>{{ post.date | date:"%Y/%m/%d" }}</time> : <a href="{{ post.url }}">{{ post.title }}</a><br>
+		<p><a href="{{ post.url }}">{{ post.title }}</a><time>{{ post.date | date:"%b %d %Y" }}</time></p>
   {% endfor %}
 </section>
 

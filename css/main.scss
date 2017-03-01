@@ -87,10 +87,9 @@ h2 {
   letter-spacing: -1px;
   margin: .3em .3em .1em 0;
 }
-
-.post {
-	//text-align: justify;
-	margin-bottom: 12px;
+.posts, .post{
+	max-width: 500px;
+	margin: auto;
 }
 
 .subscribe {
@@ -99,6 +98,10 @@ h2 {
 	//background-color: $violet;
 	border-top: 1px solid $blue;
 	//border-bottom: 1px solid $white;	
+}
+
+a {
+	color: $blue;
 }
 
 a:hover {
@@ -111,7 +114,8 @@ a:hover {
 }
 
 time {
-	font-size: 0.8em;
+	font-size: 0.9em;
+	float: right;
 }
 
 blockquote {
@@ -131,4 +135,17 @@ blockquote:before {
 }
 blockquote p {
   display: inline;
+}
+
+table {
+	margin: 20px;
+	border: 1px solid;
+	text-align: center;
+	th {
+		background: $green;
+	}
+	td {
+		font-size: 0.8em;
+		border: 1px solid;
+	}
 }
