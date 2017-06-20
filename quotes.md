@@ -30,3 +30,5 @@ permalink: /quotes/
 - "Somos nuestras acciones, no nuestras intenciones.  Nos hacemos haciendo"  
 - "People aren't poor. They may live in conditions of poverty. Classify the conditions-not the people" - Doc Jones  
 - "No se pierde POR jugar bien, sino que hay casos en que se pierde A PESAR de haber jugado bien" - Dante Panzeri  
+- Depresión: exceso de pasado; estrés: exceso de presente; ansiedad: exceso de futuro  
+
