@@ -8,6 +8,7 @@ Since October 2010 I'm trying to list all books I'm reading. This started as a w
 *Des de l'octubre de 2010 estic intentar de llistar tots els llibres que vaig llegint. Això va començar com una manera d'estimular el meu hàbit de lectura llarga, lluny de la brevetat d'internet. Troba els llibres que recomano assenyalats amb un *.*  
 
 ## 2017
+201708 : Cuba más allá de Fidel - Jorge Moreta  
 201707 : La gran teranyina - Roger Vinton  
 201705 : La magia del orden - Marie Kondo  
 201703 : Sàpiens. Una breu història de la humantat - Yuval Noah Harari *  
