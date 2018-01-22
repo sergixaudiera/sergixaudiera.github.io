@@ -19,12 +19,10 @@ body {
   font-size: 0.95em;
   line-height: 1.5em;
   text-rendering: optimizeLegibility;
-  //letter-spacing: letter-spacing;
-  //font-spacing: normal;
 }
 
 .page-wrapper {
-	max-width: 720px;
+	max-width: 600px;
 	margin: 0 auto;
 	padding: 0 14px;
 
@@ -51,14 +49,12 @@ img {
 	a {
 		color: $blue;
 	}
-	a:not(:hover) {
-		text-decoration: none;
-	}
 }
 
 header {
 	margin-bottom: 24px;
-	transition: all .8s ease-in-out;
+	transition: all 1.8s ease-in-out;
+  margin-left: -6px;
 	a {
 		color: $blue;
 		padding:0 0.4em;
@@ -79,16 +75,18 @@ h1 {
   font-weight: 300;
   letter-spacing: -2px;
   margin: .3em 0 .1em 0;
+  line-height: 1.2em;
 }
 
 h2 {
 	font-size: 1.2em;
-  font-weight: 400;
+  font-weight: 600;
   letter-spacing: -1px;
   margin: .3em .3em .1em 0;
+  line-height: 1.2em;
 }
 .posts, .post{
-	max-width: 500px;
+	max-width: 600px;
 	margin: auto;
 }
 
@@ -142,9 +140,8 @@ h2 {
   font-size: 1em;
   letter-spacing: .03em;
   color: #fff;
-  background-color: #2386C8;
+  background-color: $blue;
   padding: .7em 2em;
-  border: 2px solid #2386C8;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
@@ -152,37 +149,9 @@ h2 {
   margin: 0;
 }
 
-
-/* Button Styles */
-
-:-webkit-input-placeholder {
-  color: #ABB0B2;
-}
-
-
-/* WebKit browsers */
-
-:-moz-placeholder {
-  color: #ABB0B2;
-}
-
-
-/* Mozilla Firefox 4 to 18 */
-
-::-moz-placeholder {
-  color: #ABB0B2;
-}
-
-
-/* Mozilla Firefox 19+ */
-
-:-ms-input-placeholder {
-  color: #ABB0B2;
-}
-
-
 a {
 	color: $blue;
+  text-decoration: underline;
 }
 
 a:hover {

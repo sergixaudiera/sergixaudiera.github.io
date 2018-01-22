@@ -23,11 +23,12 @@ Veiem com la velocitat de retuits canvia en funció de l’hora de publicació d
 
 Aquest gràfic engloba tots els tuits dins la solució corporativa de xarxes socials de la Generalitat de Catalunya. Sense tenir en compte la seva tipologia ni els tipus de missatges que publica. Tot i això ens dona una idea aproximada sobre la vida d’un tuit en funció de l’hora de publicació.
 
-A partir de la representació observem com hi ha dues franges horàries que es poden considerar de màxim interès. Aquestes són: entre les 7 i les 9 del matí i al vespre entre les 21 i les 23. 
+A partir de la representació observem com hi ha dues franges horàries que es poden considerar de màxim interès. Aquestes són: entre les 7 i les 9 del matí i al vespre entre les 21 i les 23.  
 
-![% de retuits publicats en funció de l'hora de publicació](/img/201312_post_tvt_hora_publicacio.png)
+![% de retuits publicats en funció de l'hora de publicació](/img/201312_post_tvt_hora_publicacio.png)  
 
-##Retuits en funció del compte de Twitter
+## Retuits en funció del compte de Twitter
+
 Fins ara hem analitzat els comptes i els seus tuits en el seu conjunt de forma uniforma. En el següent gràfic trobem  un a un els comptes de Twitter de la Generalitat de Catalunya  amb major volum de retuits per  les seves publicacions. Per cada compte tenim la barra on s’indica el percentatge de retuits publicats i cada color representa  les hores des de la seva publicació. Així per exemple tenim com el color blau indica els percentatge de retuits fets durant la primera hora, el vermell durant la segona, i així successivament.
 
 Observem com els comptes s’organitzen per tipologia de compte. Els que reben un percentatge més alts de retuits durant la primera hora després de publicar el tuit són @rodalides i @transit, que informen de les incidències en els mitjans de transport.  És evident que el valor informatiu d’un tuit referent a problemes de transport té un interès molt elevat en un període immediat després de la seva publicació. Això fa que la vida dels seus tuits sigui molt curta, i en moltes ocasions calgui publicar un alt nombre de missatges en períodes de temps molt reduïts. Per exemple informant del tall d’una via per un accident, i la posterior normalització del servei. 
@@ -38,6 +39,7 @@ Per altra banda podem veure com perfils que informen d’altres temes menys llig
 ![% de retuits publicats en funció del compte](/img/201312_post_tvt_per_compte.png) 
 
 ## El feedback:
+
 <blockquote class="twitter-tweet" lang="en"><p>Buen análisis -&gt; RT <a href="https://twitter.com/antonigr">@antonigr</a>: <a href="https://twitter.com/search?q=%23Interessant&amp;src=hash">#Interessant</a> post &#39;La vida d’un tuit&#39; <a href="http://t.co/aEEDHkfACH">http://t.co/aEEDHkfACH</a> via <a href="https://twitter.com/gencat">@gencat</a> ac <a href="https://twitter.com/jordigraells">@jordigraells</a></p>&mdash; Manuel M. Almeida (@mmeida) <a href="https://twitter.com/mmeida/statuses/417602800819138560">December 30, 2013</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

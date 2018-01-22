@@ -3,9 +3,6 @@ layout: post
 title: Quan hi haurà més visites a gencat des de dispositius mòbils
 date: 2014-06-05 12:46
 ---
-
-*Aquesta entrada va ser publicada originalment al [gencat blog](https://generalitat.blog.gencat.cat/2014/08/04/quan-hi-haura-mes-visites-a-gencat-des-de-dispositius-mobils-que-des-dordinadors-de-taula-2-2)*
-
 El gener passat llegíem al blog del Govern del Regne Unit [una entrada](https://gds.blog.gov.uk/2014/01/08/when-will-more-people-visit-gov-uk-using-a-mobile-or-tablet-than-a-pc/) en la que es preguntaven quan els seu web rebria més visites de mòbils i tauletes tàctils que des de d'ordinadors de taula (a partir d'ara dispositius mòbils).  
 
 Després de llegir sobre els hàbits d'accés als webs dels habitants del Regne Unit ens preguntem si aquests serien similars a Catalunya, en particular  pel web de [gencat](http://www.gencat.cat). Per aquest exercici hem agafat dades d'accés des de gener de 2012 fins a febrer de 2014.  

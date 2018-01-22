@@ -3,14 +3,14 @@
 # Basics
 name: Sergi Xaudiera
 author: Sergi Xaudiera
-title: Sergi Xaudiera
-description: "Hola! Sergi Xaudiera is a digital strategist whose main area of interest is social media"
+title: Sergi Xaudiera - Computational Social Science Researcher
+description: "My name is Sergi Xaudiera, I spend my time doing research in Computational Social Science."
 
 # Images
 logo: http://sergixaudiera.com/img/profile.jpeg
 
 # RDFa structured data
-job_title: Digital Strategist
+job_title: Computational Social Science Researcher
 employer: Government of Catalonia
 url: "http://sergixaudiera.com"
 location:
@@ -23,7 +23,6 @@ social:
   links:
     - https://twitter.com/SergiXaudiera
     - https://www.linkedin.com/in/SergiXaudiera
-    - https://github.com/SergiXaudiera
 
 # Misc
 twitter:

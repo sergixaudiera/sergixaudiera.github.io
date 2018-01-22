@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Library
+title: Bookshelf
 permalink: /library/
 ---
-Since October 2010 I'm trying to list all books I'm reading. This started as a way to estimulate my long reading habits far from internet's brevity. Find books i recommend mark with a *.
+Since October 2010 I list all books I read. This started as a way to estimulate my long reading habits far from internet's brevity. 
 
-*Des de l'octubre de 2010 estic intentar de llistar tots els llibres que vaig llegint. Això va començar com una manera d'estimular el meu hàbit de lectura llarga, lluny de la brevetat d'internet. Troba els llibres que recomano assenyalats amb un *.*  
 ## 2018
 201801 : Open - Andre Agassi
 
 ## 2017
 201712 : Chavs. La demonización de la clase obrera - Owen Jones  
-201708 : Ikigai. Los secretos de Japón para una vida larga y feliz - Héctor García (Kirai) & Francesc Miralles  
+201711 : R for Data Science - Wickham & Grolemund  
+201708 : Ikigai. Los secretos de Japón para una vida larga y feliz - Héctor García  
 201708 : Cuba más allá de Fidel - Jorge Moreta  
 201707 : La gran teranyina - Roger Vinton  
 201705 : La magia del orden - Marie Kondo  
@@ -41,12 +41,12 @@ Since October 2010 I'm trying to list all books I'm reading. This started as a w
 
 ## 2014
 201411 : Bogeries de Brooklyn - Paul Auster *  
-201410 : Storytelling, la máquina de fabricar historias y formatear las mentes - Christian Salmon  
+201410 : Storytelling, la máquina de fabricar historias y formatear las mentes - Salmon  
 201409 : Si Beethoven pogués escoltar-me - Ramon Gener   
 201409 : Globalització econòmica i fragmentació social - Alain Touraine  
 201407 : Somni d'una nit d'estiu - William Shakspeare  
 201401 : Formulas para ganar - Julián Felipo  
-201401 : Avança la teva jubilació : descobreix el teu talent i retira't amb llibertat financera - Raimon Samsó  
+201401 : Avança la teva jubilació - Raimon Samsó  
 
 ## 2013
 201311 : ReWork, change the way you work forever - Jason Fried  
@@ -89,9 +89,9 @@ Since October 2010 I'm trying to list all books I'm reading. This started as a w
 201201 : Córrer o morir - Kilian Jornet  
 
 ## 2011
-201112 : Yo y tú, objetos de lujo. El personismo: la primera revolución cultural del siglo XXI  /  Vicente Verdú *  
+201112 : Yo y tú, objetos de lujo /  Vicente Verdú *  
 201111 : La Ética del hacker y el espíritu de la era de la información - Pekka Himanen  
-201111 : Mañana lo dejo : confidencias de un campeón olímpico que venció a las drogas y al alcohol - Pedro García Aguado  
+201111 : Mañana lo dejo - Pedro García Aguado  
 201109 : El ladrón de cerebros - Pere Estupinyà *  
 201107 : 9-11 - Noam Chomsky  
 201107 : Estrategia Digital - Pere Rosales  
