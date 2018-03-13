@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+description: Something more about me
 permalink: /about/
 ---
 <img width="180" height="180" src="/img/profile_mini.jpg" alt="Sergi Xaudiera">

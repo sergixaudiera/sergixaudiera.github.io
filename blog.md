@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Blog
+description: Posts published by Sergi Xaudiera
 permalink: /blog/
 ---
 <section class="posts">

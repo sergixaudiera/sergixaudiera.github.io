@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Bookshelf
+description: Since October 2010 I list all books I read. This started as a way to estimulate my long reading habits far from internet's brevity. 
 permalink: /library/
 ---
 Since October 2010 I list all books I read. This started as a way to estimulate my long reading habits far from internet's brevity. 

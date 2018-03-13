@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Quotes
+description: Some inspiration
 permalink: /quotes/
 ---
 

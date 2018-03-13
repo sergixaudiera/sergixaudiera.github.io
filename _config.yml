@@ -3,11 +3,12 @@
 # Basics
 name: Sergi Xaudiera
 author: Sergi Xaudiera
-title: Sergi Xaudiera - Computational Social Science Researcher
-description: "My name is Sergi Xaudiera, I spend my time doing research in Computational Social Science."
+title: Sergi Xaudiera - Computational Communication Science Researcher
+description: "My name is Sergi Xaudiera, I spend my time doing research in Computational Communication Science"
+image: (/img/profile.jpeg) 
 
 # Images
-logo: http://sergixaudiera.com/img/profile.jpeg
+logo: (/img/profile.jpeg) 
 
 # RDFa structured data
 job_title: Computational Social Science Researcher

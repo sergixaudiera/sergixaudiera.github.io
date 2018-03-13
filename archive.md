@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Blog + old notes
+description: All posts written by me
 permalink: /archive/
 ---
 <section>

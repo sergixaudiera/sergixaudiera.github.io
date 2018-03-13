@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Friens I read
+description: People I read
 permalink: /friends/
 ---
 People I follow, since they share knowledge online. In 2000's it used to be the blogroll.  
