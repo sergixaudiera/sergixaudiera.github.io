@@ -4,7 +4,7 @@ title: Crisis management through Twitter
 date: 2018-03-13
 ---
 
-## Crisis management through Twitter: The case of the Barcelona attacks
+Title: Crisis management through Twitter: The case of the Barcelona attacks
 
 Author: 	Xaudiera Borrell, Sergi  
 Director: 	Cardenal Izquierdo, Ana Sofía  
