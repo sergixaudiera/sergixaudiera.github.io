@@ -5,8 +5,8 @@
 
 $white 		: #FFF;
 $black 		: #333;
-$gray			: #fcfcfa;
-$blue			: #5992C2;
+$gray		: #fcfcfa;
+$blue		: #5992C2;
 $violet		: #6967CB;
 $green		: #54C899;
 $yellow 	: #FDFD96;
@@ -15,14 +15,14 @@ $orange 	: #FFC16B;
 body {
 	background: $gray;
 	color: $black;
-  font-family: "PT Sans", sans-serif;
-  font-size: 0.95em;
-  line-height: 1.5em;
-  text-rendering: optimizeLegibility;
+	font-family: "PT Sans", sans-serif;
+	font-size: 0.95em;
+	line-height: 1.8em;
+	text-rendering: optimizeLegibility;
 }
 
 .page-wrapper {
-	max-width: 600px;
+	max-width: 700px;
 	margin: 0 auto;
 	padding: 0 14px;
 
@@ -33,7 +33,7 @@ body {
 }
 
 img {
-	max-width: 600px;
+	max-width: 700px;
 	display: block;
   margin: 0 auto;
   @media screen and (max-width: 800px) {
@@ -72,21 +72,19 @@ header {
 
 h1 {
 	font-size: 2em;
-  font-weight: 300;
-  letter-spacing: -2px;
-  margin: .3em 0 .1em 0;
-  line-height: 1.2em;
+	font-weight: 300;
+	margin: .3em 0 .1em 0;
+	line-height: 1.2em;
 }
 
 h2 {
 	font-size: 1.2em;
-  font-weight: 600;
-  letter-spacing: -1px;
-  margin: .3em .3em .1em 0;
-  line-height: 1.2em;
+	font-weight: 300;
+	margin: .3em .3em .1em 0;
+	line-height: 1.2em;
 }
 .posts, .post{
-	max-width: 600px;
+	max-width: 700px;
 	margin: auto;
 }
 
