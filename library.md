@@ -7,13 +7,14 @@ permalink: /library/
 Since October 2010 I list all books I read. This started as a way to estimulate my long reading habits far from internet's brevity. 
 
 ## 2018
-201803 : Decoding the Social World - Sandra González-Bailón  
+201804 : Islàndia, l'illa secreta - Xavier Moret  
+201803 : Decoding the Social World - Sandra González-Bailón*  
 201802 : Oceà Àfrica - Xavier Aldekoa  
 201801 : Open - Andre Agassi
 
 ## 2017
 201712 : Chavs. La demonización de la clase obrera - Owen Jones  
-201711 : R for Data Science - Wickham & Grolemund  
+201711 : R for Data Science - Wickham & Grolemund *  
 201708 : Ikigai. Los secretos de Japón para una vida larga y feliz - Héctor García  
 201708 : Cuba más allá de Fidel - Jorge Moreta  
 201707 : La gran teranyina - Roger Vinton  
@@ -23,9 +24,9 @@ Since October 2010 I list all books I read. This started as a way to estimulate 
 
 ## 2016  
 201609 : Breve historia del mundo - Ernst H. Gombrich*  
-201606 : Cuatro amigos - David Trueba*  
+201606 : Cuatro amigos - David Trueba *  
 201605 : Segui vora el foc - Jair Domínguez  
-201603 : Educar millor - Carles Capdevila*  
+201603 : Educar millor - Carles Capdevila *  
 201602 : La rebel·lió catalana - Antonio Baños Boncompain  
 201601 : Catorze ciutats comptant-hi Brookyln - Quim Monzó *  
 201601 : La economía no existe - Antonio Baños Boncompain  
@@ -34,7 +35,7 @@ Since October 2010 I list all books I read. This started as a way to estimulate 
 201510 : La volta al món en 80 dies - Jules Verne  
 201510 : Pagodes i gratacels. Un viatge al Japó - J.N. Santaeulàlia  
 201509 : Soccernomics - Simon Kuper & Stefan Szymanski  
-201507 : Todas las historias y un epílogo - Enric González*  
+201507 : Todas las historias y un epílogo - Enric González *  
 201507 : L'art de la comunicació secreta, el llenguatge de la criptografia - David Juher  
 201506 : Manual de tipografía - John Kane  
 201505 : Autònoms: la guia definitiva - Blackie books  
