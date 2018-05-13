@@ -7,6 +7,7 @@ permalink: /library/
 Since October 2010 I list all books I read. This started as a way to estimulate my long reading habits far from internet's brevity. 
 
 ## 2018
+201805 : Network Science - Albert-László Barabási  
 201804 : Islàndia, l'illa secreta - Xavier Moret  
 201803 : Decoding the Social World - Sandra González-Bailón*  
 201802 : Oceà Àfrica - Xavier Aldekoa  
