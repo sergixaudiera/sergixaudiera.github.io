@@ -1,6 +1,0 @@
-Name: Sergi Xaudiera
-Site: http://sergixaudiera.com
-Twitter: @SergiXaudiera
-
-/* TOOLS */
-Made with: Jekyll, Sass

@@ -1,11 +1,60 @@
 <!DOCTYPE html>
 <html>
-	{% include head.html %}
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="Description" content="Sergi Xaudiera: Digital & Social Media Strategist, Computational Social Science Researcher, and basketball player.">
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:site" content="@SergiXaudiera">
+		<meta name="twitter:title" content="Sergi Xaudiera">
+		<meta name="twitter:description" content="Digital & Social Media Strategist, Computational Social Science Researcher, and basketball player.">
+		<meta name="twitter:creator" content="@SergiXaudiera">
+		<meta name="twitter:image:src" content="https://sergixaudiera.com/img/profile.jpg">
+		<meta property="og:image" content="https://sergixaudiera.com/img/profile.jpg">
+		<meta name="twitter:domain" content="sergixaudiera.com">
+		<link rel="alternate" type="application/rss+xml" title="Sergi Xaudiera" href="/feed.xml" />
+		<title>{% if page.title %}{{ page.title }} / {% endif %} Sergi Xaudiera</title>
+		
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="57x57" href="/img/favicon/apple-icon-57x57.png">
+		<link rel="apple-touch-icon" sizes="60x60" href="/img/favicon/apple-icon-60x60.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="/img/favicon/apple-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="/img/favicon/apple-icon-76x76.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="/img/favicon/apple-icon-114x114.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="/img/favicon/apple-icon-120x120.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="/img/favicon/apple-icon-144x144.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="/img/favicon/apple-icon-152x152.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-icon-180x180.png">
+		<link rel="icon" type="image/png" sizes="192x192"  href="/img/favicon/android-icon-192x192.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="96x96" href="/img/favicon/favicon-96x96.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+		<link rel="manifest" href="/img/favicon/manifest.json">
+		<meta name="msapplication-TileColor" content="#ffffff">
+		<meta name="msapplication-TileImage" content="/img/favicon/ms-icon-144x144.png">
+		<meta name="theme-color" content="#ffffff">
+		<!-- /Favicon -->
+		<style type="text/css">body{margin:40px auto;max-width:650px;line-height:1.6;font-size:18px;color:#333;padding:0 10px}h1,h2,h3{line-height:1.2}</style>
+	</head>
 	<body>
-		<div class="page-wrapper">
-			{{ content }}
-		</div>
-	{% include footer.html %}
+		<header>
+			<h1><a rel ="Sergi Xaudiera" href="/">Sergi Xaudiera</a></h1>
+			<aside><small>Digital & Social Media Strategist, Computational Social Science Researcher, and basketball player.</small></aside>
+		</header>
+		<br>
+		<article>
+		{{ content }}
+		</article>
+		<br>
+		<footer>
+			<nav>
+				<a href="/about">about</a>
+				<a href="/blog">blog</a>
+				<a href="/library">bookshelf</a>
+				<a href="mailto:sergi.xaudiera@gmail.com" target="_top">e-mail</a>
+				<a href="http://twitter.com/SergiXaudiera">twitter</a>
+				<a href="https://www.linkedin.com/in/sergixaudiera">linkedin</a>
+			</nav>
+		</footer>
 	</body>
 </html>
-<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
