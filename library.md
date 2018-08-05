@@ -7,7 +7,8 @@ permalink: /library/
 Since October 2010 I list all books I read. This started as a way to estimulate my long reading habits far from internet's brevity. 
 
 ### 2018
-201807 : Writing the Doctoral Dissertation - Gordon B. Davis
+201808 : Cien años de soledad - Gabriel García Márquez  
+201807 : Writing the Doctoral Dissertation - Gordon B. Davis  
 201807 : Homo Deus - Yuval Noah Harari  
 201805 : Network Science - Albert-László Barabási  
 201804 : Islàndia, l'illa secreta - Xavier Moret  
