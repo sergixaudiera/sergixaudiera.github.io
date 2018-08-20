@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Sergi Xaudiera
+title: About
 description: Something more about me
 permalink: /about/
 ---
