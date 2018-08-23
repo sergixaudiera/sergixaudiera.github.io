@@ -8,14 +8,14 @@ permalink: /links/
 ## Apps
 
 -[Firefox](https://www.mozilla.org/en-US/firefox/new/) + add-ons:  
-	-[BetterTweetDeck](https://better.tw/)  
-	-[HTTPS Everywhere](https://www.eff.org/https-everywhere)  
-	-[Impulse blocker](https://github.com/raicem/impulse-blocker)  
-	-[JSON lite](https://github.com/lauriro/json-lite)  
-	-[Privacy Badger](https://www.eff.org/privacybadger)  
-	-[LastPass](https://www.lastpass.com/)  
-	-[uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin)  
-	-[Wappalyzer](https://www.wappalyzer.com/)  
+		-[BetterTweetDeck](https://better.tw/)  
+		-[HTTPS Everywhere](https://www.eff.org/https-everywhere)  
+		-[Impulse blocker](https://github.com/raicem/impulse-blocker)  
+		-[JSON lite](https://github.com/lauriro/json-lite)  
+		-[Privacy Badger](https://www.eff.org/privacybadger)  
+		-[LastPass](https://www.lastpass.com/)  
+		-[uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin)  
+		-[Wappalyzer](https://www.wappalyzer.com/)  
 -[KeePass](https://keepass.info/)  
 -[OpenRefine](http://openrefine.org/)  
 -[Rstudio](https://www.rstudio.com/)  
