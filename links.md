@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Recommendations
-description: 
+description: Useful tools and links
 permalink: /links/
 ---
 
