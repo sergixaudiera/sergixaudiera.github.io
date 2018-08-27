@@ -2,7 +2,7 @@
 
 permalink: /:year/:title/
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-feed
 
