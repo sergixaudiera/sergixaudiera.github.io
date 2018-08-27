@@ -1,9 +1,11 @@
 ---
 layout: default
 ---
-<a href="/">← Go back</a><br>
-<h2>{{ page.title }}</h2>
+<header>
+	<h1>{% if page.title %}{{ page.title }} / {% endif %} <a href="/">Sergi Xaudiera</a></h1>
+</header>
 <small>{{ page.date | date_to_long_string }}</small>
 
 {{ content }}
 
+<br><a href="/">← Go back</a><br>

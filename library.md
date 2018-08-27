@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Bookshelf
-description: Since October 2010 I list all books I read. This started as a way to estimulate my long reading habits far from internet's brevity. 
+description: Recent reads by Sergi Xaudiera
 permalink: /library/
 ---
-Since October 2010 I list all books I read. This started as a way to estimulate my long reading habits far from internet's brevity. 
+## Recent reads 
 
 ### 2018
 201808 : Cien años de soledad - Gabriel García Márquez  

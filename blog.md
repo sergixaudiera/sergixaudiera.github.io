@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Blog
-description: Posts published by Sergi Xaudiera
+description: Recent posts by Sergi Xaudiera
 permalink: /blog/
 ---
-## All Blog articles
+## Recent posts
 
 <ul>
 {% for post in site.posts %}
