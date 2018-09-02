@@ -7,6 +7,7 @@ permalink: /library/
 ## Recent reads 
 
 ### 2018
+201809 : Dream Team - Jack McCallum  
 201808 : Cien años de soledad - Gabriel García Márquez  
 201807 : Writing the Doctoral Dissertation - Gordon B. Davis  
 201807 : Homo Deus - Yuval Noah Harari  
