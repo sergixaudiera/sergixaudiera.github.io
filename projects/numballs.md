@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Numballs
 description: Numballs project by Sergi Xaudiera
 permalink: /numballs/

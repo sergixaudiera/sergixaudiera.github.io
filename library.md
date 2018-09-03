@@ -4,9 +4,7 @@ title: Bookshelf
 description: Recent reads by Sergi Xaudiera
 permalink: /library/
 ---
-## Recent reads 
-
-### 2018
+**2018**  
 201809 : Dream Team - Jack McCallum  
 201808 : Cien años de soledad - Gabriel García Márquez  
 201807 : Writing the Doctoral Dissertation - Gordon B. Davis  
@@ -17,7 +15,7 @@ permalink: /library/
 201802 : Oceà Àfrica - Xavier Aldekoa  
 201801 : Open - Andre Agassi
 
-### 2017
+**2017**  
 201712 : Chavs. La demonización de la clase obrera - Owen Jones  
 201711 : R for Data Science - Wickham & Grolemund *  
 201708 : Ikigai. Los secretos de Japón para una vida larga y feliz - Héctor García  
@@ -27,7 +25,7 @@ permalink: /library/
 201703 : Sàpiens. Una breu història de la humantat - Yuval Noah Harari *  
 201701 : Análisis de datos de redes sociales - Cristina Pérez-Solà i Jordi Casas-Roma  
 
-### 2016  
+**2016**  
 201609 : Breve historia del mundo - Ernst H. Gombrich*  
 201606 : Cuatro amigos - David Trueba *  
 201605 : Segui vora el foc - Jair Domínguez  
@@ -36,7 +34,7 @@ permalink: /library/
 201601 : Catorze ciutats comptant-hi Brookyln - Quim Monzó *  
 201601 : La economía no existe - Antonio Baños Boncompain  
 
-### 2015
+**2015**  
 201510 : La volta al món en 80 dies - Jules Verne  
 201510 : Pagodes i gratacels. Un viatge al Japó - J.N. Santaeulàlia  
 201509 : Soccernomics - Simon Kuper & Stefan Szymanski  
@@ -48,7 +46,7 @@ permalink: /library/
 201502 : Comunicación de instituciones públicas - Núria Escalona  
 201501 : Canastas sagradas - Phil Jackson  
 
-### 2014
+**2014**  
 201411 : Bogeries de Brooklyn - Paul Auster *  
 201410 : Storytelling, la máquina de fabricar historias y formatear las mentes - Salmon  
 201409 : Si Beethoven pogués escoltar-me - Ramon Gener   
@@ -57,7 +55,7 @@ permalink: /library/
 201401 : Formulas para ganar - Julián Felipo  
 201401 : Avança la teva jubilació - Raimon Samsó  
 
-### 2013
+**2013**  
 201311 : ReWork, change the way you work forever - Jason Fried  
 201308 : El petit príncep - Antoine de Saint-Exupéry *  
 201308 : Allà on viuen els monstres - Maurice Sendak   
@@ -73,7 +71,7 @@ permalink: /library/
 201301 : La Ciencia Del Caos - Philip Kotler  
 201301 : L'última lliçó - Randy Pausch  
 
-### 2012
+**2012**  
 201212 : Petit tractat del decreixement serè - Serge Latouche *    
 201212 : Zen 305 - Ferran Martínez  
 201211 : Conectados - Nicholas A. Christiakis & James H. Fowler  
@@ -97,7 +95,7 @@ permalink: /library/
 201203 : Analítica Web 2.0 - Avinash Kaushik    
 201201 : Córrer o morir - Kilian Jornet  
 
-### 2011
+**2011**  
 201112 : Yo y tú, objetos de lujo /  Vicente Verdú *  
 201111 : La Ética del hacker y el espíritu de la era de la información - Pekka Himanen  
 201111 : Mañana lo dejo - Pedro García Aguado  
@@ -110,6 +108,6 @@ permalink: /library/
 201105 : Wikileaks per dins - Daniel Domscheit-Berg  
 201102 : Jazz al despatx de Hitler - Plàcid Garcia- Planas *  
 
-### 2010
+**2010**  
 201011 : Y Google, ¿Cómo lo haría? - Jeff Jarvis  
 201010 : El Palau de la LLuna - Paul Auster *  
