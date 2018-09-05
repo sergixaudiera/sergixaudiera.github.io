@@ -33,6 +33,7 @@ permalink: /links/
 [Consells de ciberseguretat](https://www.belfercenter.org/cyberplaybook)  
 [Consells usabilitat](https://goodui.org/)  
 [Consells accessibilitat](https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts)  
+[Basic security precautions for non-profits and journalists](https://techsolidarity.org/resources/basic_security.htm)  
 
 **Podcast**  
 [IRL](https://irlpodcast.org/)  
