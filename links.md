@@ -34,6 +34,7 @@ permalink: /links/
 [Consells usabilitat](https://goodui.org/)  
 [Consells accessibilitat](https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts)  
 [Basic security precautions for non-profits and journalists](https://techsolidarity.org/resources/basic_security.htm)  
+[Instagram Well-Being](https://wellbeing.instagram.com/)   
 
 **Podcast**  
 [IRL](https://irlpodcast.org/)  
