@@ -5,16 +5,17 @@ description: Recent reads by Sergi Xaudiera
 permalink: /library/
 ---
 **2018**  
+201810 : La filosofia Nudge - Richard Thaler i Cass Sunstein  
 201809 : Seven seconds or less - Jack McCallum  
-201809 : Dream Team - Jack McCallum  
+201809 : Dream Team - Jack McCallum *  
 201808 : Cien años de soledad - Gabriel García Márquez  
 201807 : Writing the Doctoral Dissertation - Gordon B. Davis  
 201807 : Homo Deus - Yuval Noah Harari  
-201805 : Network Science - Albert-László Barabási  
+201805 : Network Science - Albert-László Barabási * 
 201804 : Islàndia, l'illa secreta - Xavier Moret  
 201803 : Decoding the Social World - Sandra González-Bailón*  
 201802 : Oceà Àfrica - Xavier Aldekoa  
-201801 : Open - Andre Agassi
+201801 : Open - Andre Agassi *
 
 **2017**  
 201712 : Chavs. La demonización de la clase obrera - Owen Jones  
@@ -27,7 +28,7 @@ permalink: /library/
 201701 : Análisis de datos de redes sociales - Cristina Pérez-Solà i Jordi Casas-Roma  
 
 **2016**  
-201609 : Breve historia del mundo - Ernst H. Gombrich*  
+201609 : Breve historia del mundo - Ernst H. Gombrich *  
 201606 : Cuatro amigos - David Trueba *  
 201605 : Segui vora el foc - Jair Domínguez  
 201603 : Educar millor - Carles Capdevila *  
@@ -53,15 +54,15 @@ permalink: /library/
 201409 : Si Beethoven pogués escoltar-me - Ramon Gener   
 201409 : Globalització econòmica i fragmentació social - Alain Touraine  
 201407 : Somni d'una nit d'estiu - William Shakspeare  
-201401 : Formulas para ganar - Julián Felipo  
+201401 : Formulas para ganar - Julián Felipo *  
 201401 : Avança la teva jubilació - Raimon Samsó  
 
 **2013**  
 201311 : ReWork, change the way you work forever - Jason Fried  
 201308 : El petit príncep - Antoine de Saint-Exupéry *  
 201308 : Allà on viuen els monstres - Maurice Sendak   
-201307 : Elogio a la lentitud - Carl Honoré   
-201306 : El Matí amb Raimon Panikkar - Antoni Bassas  
+201307 : Elogio a la lentitud - Carl Honoré *   
+201306 : El Matí amb Raimon Panikkar - Antoni Bassas *  
 201305 : La fàbrica  - Miquel Martí i Pol  
 201305 : Un món feliç  - Aldous Huxley *  
 201304 : Simiocracia - Españistán - Aleix Saló  
@@ -73,7 +74,7 @@ permalink: /library/
 201301 : L'última lliçó - Randy Pausch  
 
 **2012**  
-201212 : Petit tractat del decreixement serè - Serge Latouche *    
+201212 : Petit tractat del decreixement serè - Serge Latouche *  
 201212 : Zen 305 - Ferran Martínez  
 201211 : Conectados - Nicholas A. Christiakis & James H. Fowler  
 201211 : El fútbol a sol y sombra - Eduardo Galeano *  
@@ -91,14 +92,14 @@ permalink: /library/
 201207 : Ara parlo jo - Carles Reixach  
 201207 : El viatge a la felicitat - Eduard Punset  
 201206 : El monjo que va vendre el Ferrari - Robin Sharma  
-201205 : Visualize This - Nathan Yau  
+201205 : Visualize This - Nathan Yau *  
 201204 : Predictably irrational - Dan Ariely *  
 201203 : Analítica Web 2.0 - Avinash Kaushik    
 201201 : Córrer o morir - Kilian Jornet  
 
 **2011**  
 201112 : Yo y tú, objetos de lujo /  Vicente Verdú *  
-201111 : La Ética del hacker y el espíritu de la era de la información - Pekka Himanen  
+201111 : La Ética del hacker y el espíritu de la era de la información - Pekka Himanen *  
 201111 : Mañana lo dejo - Pedro García Aguado  
 201109 : El ladrón de cerebros - Pere Estupinyà *  
 201107 : 9-11 - Noam Chomsky  
@@ -106,7 +107,7 @@ permalink: /library/
 201106 : Administració, societat, llengua i Internet - Jordi Graells i Núria Vives  
 201106 : La magia - John U. Bacon  
 201105 : Està tot per fer - Pau Garcia-Milà  
-201105 : Wikileaks per dins - Daniel Domscheit-Berg  
+201105 : Wikileaks per dins - Daniel Domscheit-Berg *  
 201102 : Jazz al despatx de Hitler - Plàcid Garcia- Planas *  
 
 **2010**  
