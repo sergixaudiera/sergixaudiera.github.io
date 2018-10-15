@@ -17,8 +17,7 @@ permalink: /links/
 [Impulse blocker](https://github.com/raicem/impulse-blocker)  
 [JSON lite](https://github.com/lauriro/json-lite)  
 [Privacy Badger](https://www.eff.org/privacybadger)  
-[LastPass](https://www.lastpass.com/)  
-[uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin)  
+[uBlock Origin](https://github.com/gorhill/uBlock)  
 [Wappalyzer](https://www.wappalyzer.com/) 
 
 **Web-apps**  

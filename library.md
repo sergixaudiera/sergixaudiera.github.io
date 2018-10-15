@@ -11,7 +11,7 @@ permalink: /library/
 201808 : Cien años de soledad - Gabriel García Márquez  
 201807 : Writing the Doctoral Dissertation - Gordon B. Davis  
 201807 : Homo Deus - Yuval Noah Harari  
-201805 : Network Science - Albert-László Barabási * 
+201805 : Network Science - Albert-László Barabási *  
 201804 : Islàndia, l'illa secreta - Xavier Moret  
 201803 : Decoding the Social World - Sandra González-Bailón*  
 201802 : Oceà Àfrica - Xavier Aldekoa  
@@ -98,7 +98,7 @@ permalink: /library/
 201201 : Córrer o morir - Kilian Jornet  
 
 **2011**  
-201112 : Yo y tú, objetos de lujo /  Vicente Verdú *  
+201112 : Yo y tú, objetos de lujo - Vicente Verdú *  
 201111 : La Ética del hacker y el espíritu de la era de la información - Pekka Himanen *  
 201111 : Mañana lo dejo - Pedro García Aguado  
 201109 : El ladrón de cerebros - Pere Estupinyà *  
