@@ -7,7 +7,7 @@ permalink: /about/
 **personal information**  
 - Citizenship: European
 - Year of birth: 1986
-- [sergi.xaudiera@gmail.com](mailto:sergi.xaudiera@gmail.com)
+- [sergi@xaudiera.xyz](mailto:sergi@xaudiera.xyz)
 
 ~
 
