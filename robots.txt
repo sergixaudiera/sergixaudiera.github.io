@@ -1,4 +1,4 @@
-Sitemap: http://sergixaudiera.com/sitemap.xml
+Sitemap: https://sergi.xaudiera.xyz/sitemap.xml
 
 User-agent: *
 Disallow: /tag/

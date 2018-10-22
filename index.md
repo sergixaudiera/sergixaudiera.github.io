@@ -7,6 +7,8 @@ layout: default
 	<aside>I'm a PhD student interested in Internet</aside>
 </header>
 
+~
+
 **What I do**  
 I do research about computational social science, especially in the context of the Internet and digital tools, and how they can be used to make a positive impact.
 
