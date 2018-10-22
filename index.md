@@ -4,7 +4,7 @@ layout: default
 
 <header>
 	<h1>Hi, my name is Sergi Xaudiera.</h1>
-	<aside>I'm a PhD candidate interested in Internet</aside>
+	<aside>I'm a PhD student interested in Internet</aside>
 </header>
 
 ~
@@ -15,7 +15,7 @@ I do research about computational social science, especially in the context of t
 ~
 
 **Get in touch**  
-If you want to get in touch, just [send me an e-mail](mailto:sergi.xaudiera@gmail.com). If you want to see what I type [follow me on Twitter](http://twitter.com/SergiXaudiera) or [in Mastodon](https://mastodon.social/@s3rg1), and of course you can [subscribe to rss feed](https://sergixaudiera.com/feed.xml).
+If you want to get in touch, just [send me an e-mail](mailto:sergi@xaudiera.xyz). If you want to see what I type [follow me on Twitter](http://twitter.com/SergiXaudiera) and you can [subscribe to rss feed](https://sergixaudiera.com/feed.xml).
 
 ~
 
