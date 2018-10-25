@@ -4,10 +4,39 @@ title: Projects
 description: Recent work by Sergi Xaudiera
 permalink: /projects/
 ---
+<aside>Some of the things I've made (and can be seen)</aside>
+
+<div class="container">
+  <a href="/numballs"><img src="/img/20180827_numballs.png" alt="Avatar" class="image">
+  <div class="overlay">
+    <div class="text">numballs</div>
+  </div></a>
+</div>
+
+<!--- <div style="clear: both">
+<div class="container">
+  <a href="/numballs"><img src="/img/20180827_numballs.png" alt="Avatar" class="image">
+  <div class="overlay">
+    <div class="text">numballs</div>
+  </div></a>
+</div>
+<div class="container">
+  <a href="/numballs"><img src="/img/20180827_numballs.png" alt="Avatar" class="image">
+  <div class="overlay">
+    <div class="text">numballs</div>
+  </div></a>
+</div>
+<div class="container">
+  <a href="/numballs"><img src="/img/20180827_numballs.png" alt="Avatar" class="image">
+  <div class="overlay">
+    <div class="text">numballs</div>
+  </div></a>
+</div> -->
+
 <style>
 .container {
   position: relative;
-  width: 48%;
+  width: 280px;
   margin-right: 2%;
   margin-bottom: 4%;
   float: left;
@@ -37,8 +66,6 @@ permalink: /projects/
 }
 
 .text {
-  color: #333;
-  font-size: 20px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -48,31 +75,3 @@ permalink: /projects/
   text-align: center;
 }
 </style>
-
-<div class="container">
-  <a href="/numballs"><img src="/img/20180827_numballs.png" alt="Avatar" class="image">
-  <div class="overlay">
-    <div class="text">numballs</div>
-  </div></a>
-</div>
-
-<div style="clear: both">
-
-<!--- <div class="container">
-  <a href="/numballs"><img src="/img/20180827_numballs.png" alt="Avatar" class="image">
-  <div class="overlay">
-    <div class="text">numballs</div>
-  </div></a>
-</div>
-<div class="container">
-  <a href="/numballs"><img src="/img/20180827_numballs.png" alt="Avatar" class="image">
-  <div class="overlay">
-    <div class="text">numballs</div>
-  </div></a>
-</div>
-<div class="container">
-  <a href="/numballs"><img src="/img/20180827_numballs.png" alt="Avatar" class="image">
-  <div class="overlay">
-    <div class="text">numballs</div>
-  </div></a>
-</div> -->

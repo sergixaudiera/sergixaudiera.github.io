@@ -4,7 +4,12 @@ title: Blog
 description: Recent posts by Sergi Xaudiera
 permalink: /blog/
 ---
+<aside>Things I’ve written, papers and thoughts</aside>
 
-{% for post in site.posts %}
-[{{ post.title }} ]({{ post.url }})  <span style="color: #6b737b">{{ post.date | date:"%Y/%m/%d" }}</span>   
-{% endfor %}
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a> <date>({{ post.date | date:"%B %Y" }})</date>
+    </li>
+  {% endfor %}
+</ul>

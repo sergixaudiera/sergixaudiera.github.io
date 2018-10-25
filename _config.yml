@@ -5,5 +5,4 @@ permalink: /:year/:title/
 plugins:
   - jekyll-sitemap
   - jekyll-feed
-
   

@@ -4,7 +4,7 @@ title: Museu
 description: Tothom té un passat, un espai per recordar antigues batalles
 permalink: /museu/
 ---
-Tothom té un passat, un espai per recordar antigues batalles
+<aside>Tothom té un passat, un espai per recordar antigues batalles</aside>
 
 2001 - [dirk nowitzki](https://web.archive.org/web/20011215112006/http://dirknowitzki.cjb.net/)  
 2002 - [gasol55](https://web.archive.org/web/20020114171058/http://www.geocities.com/gasol55/)  

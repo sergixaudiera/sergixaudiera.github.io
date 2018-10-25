@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Friens I read
-description: People I read
+title: People I follow
+description: People I follow
 permalink: /friends/
 ---
-People I follow, since they share knowledge online. In 2000's it used to be the blogroll.  
+<aside>(In 2000's it was called a blogroll)</aside>
 
 - [Albert Garcia Pujadas](http://qtorb.com/ "Albert Garcia Pujadas")
 - [Cristina Aced](http://cristinaaced.com/blog/ "Cristina Aced")

@@ -4,6 +4,7 @@ title: Quotes
 description: Some inspiration
 permalink: /quotes/
 ---
+<aside>Source of inspiration</aside>
 
 - "La pobreza no viene por la disminución de las riquezas, sino por la multiplicación de los deseos" - Platón  
 - "La mejor forma de predecir el futuro es formar parte de los cambios que llevan a inventarlo"  
