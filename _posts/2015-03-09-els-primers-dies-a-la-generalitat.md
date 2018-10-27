@@ -2,6 +2,7 @@
 layout: post
 title: Els primers dies a la Generalitat
 date: 2015-03-06 14:55
+categories: [pro,portada]
 ---
 El dia 1 de març de 2010, va ser el meu primer dia de feina a la redacció [gencat](http://gencat.cat). Feia pocs mesos que havia tornat de Londres, on havia estat treballant a [We Are Social](http://wearesocial.net), i vaig tenir la sort de poder cobrir temporalment una vacant. Les meves tasques eren maquetar webs especials en hmtl i css.
 

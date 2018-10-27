@@ -2,6 +2,7 @@
 layout: post
 title: Crisis management through Twitter
 date: 2018-03-13
+categories: [pro,portada]
 ---
 
 Title: Crisis management through Twitter: The case of the Barcelona attacks

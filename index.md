@@ -20,7 +20,7 @@ If you want to get in touch easily just [send me an e-mail](mailto:sergi@xaudier
 
 **Things I’ve written:**
 <ul>
-  {% for post in site.posts limit:5 %}
+  {% for post in site.categories.portada limit:10 %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a> 
     </li>

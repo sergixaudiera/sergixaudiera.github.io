@@ -4,9 +4,7 @@ title: Numballs
 description: Numballs project by Sergi Xaudiera
 permalink: /numballs/
 ---
-<aside>numballs.com (2018)</aside>
-<aside></aside>
-
+<aside>numballs app (2012 - 2018)</aside>
 An amazing webapp (mongodb, angularjs), that collected data (java, api) from social media platforms (twitter, facebook, instagram) and gather into a site that allowed users to explore and slice data to get meaningful marketing insights. 
 
 Made with ❤ Marc de Palol and Roger Bramon ❤.

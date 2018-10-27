@@ -2,6 +2,7 @@
 layout: post
 title: Audiència a les xarxes socials
 date: 2014-09-25 15:04
+categories: [pro]
 ---
 Fa dies que vull escriure sobre l'audiència, i que llegeix el que publiquem a les xarxes socials. Com a defecte professional em fixo en com les organitzacions de diferents sectors utilitzen internet com a eina per assolir el seus objectius de negoci.
 

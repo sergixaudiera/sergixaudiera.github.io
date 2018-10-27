@@ -2,8 +2,7 @@
 layout: post
 title: Ya estoy en We Are Social
 date: 2009-07-09 14:35
-comments: true
-categories: [pro]
+categories: [personal]
 ---
 ![% Equipo Go Find It](/img/200907_teamGFI2.png)
 

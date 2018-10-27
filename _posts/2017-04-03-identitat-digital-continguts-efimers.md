@@ -2,6 +2,7 @@
 layout: post
 title: Identitat digital i continguts efímers
 date: 2017-04-03 11:13
+categories: [pro]
 ---
 Les publicacions efímeres estan de moda. Aquest invent popularitzat per Snapchat, consisteix en aplicar una caducitat a les publicacions, està causant furor i sent copiat per les principals eines socials.
 
