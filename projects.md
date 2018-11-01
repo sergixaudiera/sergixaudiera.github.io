@@ -14,7 +14,7 @@ permalink: /projects/
   <div class="caption">numballs app (2012 - 2018)</div>
 </div>
 <div class="container">
-  <a href="/blog/numballs/"><img src="/img/201210_nbaplayersnetwork.png" alt="Blog Numballs" class="image">
+  <a href="/blog/numballs/"><img src="/img/201210_nbaplayersnetwork_2.png" alt="Blog Numballs" class="image">
   <div class="overlay">
     <div class="text">numballs blog</div>
   </div></a>
@@ -22,7 +22,7 @@ permalink: /projects/
 </div>
 <div style="clear: both">
 <div class="container">
-  <a href="/cop-gencat/"><img src="/img/2017-02-08-congres-govern-digital.jpg" alt="Blog Personal" class="image">
+  <a href="/cop-gencat/"><img src="/img/20170208_congres_govern_digital.jpg" alt="Blog Personal" class="image">
   <div class="overlay">
     <div class="text">CoP Gencat</div>
   </div></a>
