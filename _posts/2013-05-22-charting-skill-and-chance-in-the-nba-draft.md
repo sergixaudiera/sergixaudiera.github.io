@@ -2,7 +2,7 @@
 layout: post
 title: Charting Skill and Chance in the NBA Draft
 date: 2013/05/22 17:59 
-categories: [numballs, pro,portada]
+categories: [numballs, pro]
 ---
 We are big fans of NY Times'' data team. After reading [Charting Skill and Chance in the N.F.L. Draft](http://chartsnthings.tumblr.com/post/49236510636/charting-skill-and-chance-in-the-n-f-l-draft) we wondered if we could do something similar for the NBA draft. We wanted to see the position where best players are drafted each year.
 

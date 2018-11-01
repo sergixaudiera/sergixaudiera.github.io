@@ -2,7 +2,7 @@
 layout: post
 title: Kevin Durant the most influential NBA player on Twitter
 date: 2012-10-30 15:02
-categories: [numballs, pro, portada]
+categories: [numballs, pro]
 ---
 ![% NBA players network on Twitter](/img/201210_nbaplayersnetwork.png)
 
