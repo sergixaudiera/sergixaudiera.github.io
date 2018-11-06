@@ -9,7 +9,8 @@ permalink: /library/
 
 |**2018** | | |
 | :---- | ------| ---: |
-| 201810 | La filosofia Nudge - Richard Thaler i Cass Sunstein|
+| 201811 | Enriquéceme despacio, que tengo prisa - Carlos Tusquets|
+| 201810 | La filosofia Nudge - Richard Thaler & Cass Sunstein|
 | 201809 | Seven seconds or less - Jack McCallum|
 | 201809 | Dream Team - Jack McCallum|*|
 | 201808 | Cien años de soledad - Gabriel García Márquez|
