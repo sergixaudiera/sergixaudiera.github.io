@@ -2,6 +2,12 @@
 
 permalink: /:year/:title/
 
+title: Sergi Xaudiera
+description: "Sergi Xaudiera: Digital & Social Media Strategist, Computational Social Science Researcher, and basketball player."
+url: https://sergi.xaudiera.xyz
+author: Sergi Xaudiera 
+
+
 plugins:
   - jekyll-sitemap
   - jekyll-feed
