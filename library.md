@@ -9,6 +9,7 @@ permalink: /library/
 
 |**2018** | | |
 | :---- | ------| ---: |
+| 201811 | Data Points - Nathan Yau|*|
 | 201811 | Enriquéceme despacio, que tengo prisa - Carlos Tusquets|
 | 201810 | La filosofia Nudge - Richard Thaler & Cass Sunstein|
 | 201809 | Seven seconds or less - Jack McCallum|
