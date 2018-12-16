@@ -9,7 +9,8 @@ permalink: /library/
 
 |**2018** | | |
 | :---- | ------| ---: |
-| 201812 | Big Crisis Data - Carlos Castillo|*|
+| 201812 | La memòria de l'arbre - Tina Vallès|
+| 201812 | Big Crisis Data - Carlos Castillo|
 | 201811 | Data Points - Nathan Yau|*|
 | 201811 | Enriquéceme despacio, que tengo prisa - Carlos Tusquets|
 | 201810 | La filosofia Nudge - Richard Thaler & Cass Sunstein|
