@@ -6,7 +6,10 @@ permalink: /library/
 ---
 <aside>Books I’ve read, recommendations with *</aside>
 
-
+|**2019** | | |
+| :---- | ------| ---: |
+| 201901 | El Imperio de la vigilancia - Ignacio Ramonet|
+|~| | |
 |**2018** | | |
 | :---- | ------| ---: |
 | 201812 | La memòria de l'arbre - Tina Vallès|
