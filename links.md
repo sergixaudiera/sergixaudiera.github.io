@@ -46,3 +46,4 @@ permalink: /links/
 - [Basic security precautions for non-profits and journalists](https://techsolidarity.org/resources/basic_security.htm){:rel="nofollow"}
 - [Consells usabilitat](https://goodui.org/){:rel="nofollow"}  
 - [Consells accessibilitat](https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts){:rel="nofollow"}  
+- [BBC Visual and Data Journalism cookbook for R graphics](https://bbc.github.io/rcookbook/){:rel="nofollow"} 
