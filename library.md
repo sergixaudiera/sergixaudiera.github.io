@@ -8,6 +8,7 @@ permalink: /library/
 
 |**2019** | | |
 | :---- | ------| ---: |
+| 201704 | Sàpiens. Una breu història de la humantat - Yuval Noah Harari|*|
 | 201902 | Més o menys jo - Miquel Duran|*|
 | 201902 | Permagel - Eva Baltasar|*|
 | 201901 | El Imperio de la vigilancia - Ignacio Ramonet|
