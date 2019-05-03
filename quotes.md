@@ -6,6 +6,7 @@ permalink: /quotes/
 ---
 <aside>Source of inspiration</aside>
 
+- "Be more concerned with your character than your reputation, because your character is what you really are, while your reputation is merely what others think you are." — Coach John Wooden
 - El tenista Vitas Gerulaitis había perdido 16 partidos contra Jimmy Connors, hasta que un día le ganó. Luego del partido declaró: "Que esto sea una lección para todos. Nadie le gana a Vitas Gerulaitis diecisiete veces seguidas."
 - "La pobreza no viene por la disminución de las riquezas, sino por la multiplicación de los deseos" - Platón  
 - "La mejor forma de predecir el futuro es formar parte de los cambios que llevan a inventarlo"  
