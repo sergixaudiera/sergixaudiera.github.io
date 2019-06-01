@@ -8,6 +8,7 @@ permalink: /library/
 
 |**2019** | | |
 | :---- | ------| ---: |
+| 201906 | Un viatge a l'Índia - Gonçalo M. Tavares|*|
 | 201905 | Resistencia digital - Críptica|
 | 201904 | Sàpiens. Una breu història de la humantat - Yuval Noah Harari|*|
 | 201902 | Més o menys jo - Miquel Duran|*|
