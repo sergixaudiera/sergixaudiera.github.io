@@ -10,4 +10,4 @@ categories: [micro, security]
 
 > “While we are still working to establish exactly what happened, we have begun making changes to our access arrangements to MyNewsDesk. We apologise to our subscribers and followers for the messages they have received.
 
-How important is to secure all public official accounts. My kudos to the human how fixed it on Saturday morning.
+How important is to secure all public official accounts. My kudos to the human who fixed it on Saturday morning.
