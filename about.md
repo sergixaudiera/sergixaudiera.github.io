@@ -13,6 +13,10 @@ permalink: /about/
 ~
 
 **academic**  
+**Doctoral program, Information and Knowledge Society**
+Universitat Oberta de Catalunya
+2019 - Present
+
 **Master's degree, Information and Knowledge Society**    
 Universitat Oberta de Catalunya  
 2016-2018
@@ -43,7 +47,7 @@ September 2008 - March 2009
 ~
 
 **skills**  
-- Software: r (tidyverse, ggplot2, rvest), gephi, html, css, git, php, sql, office
+- Software: R (tidyverse, ggplot2, rvest), gephi, html, css, git, php, sql, office
 - Languages: english (fluent), catalan (native), spanish (native), french (elementary)
 
 ~

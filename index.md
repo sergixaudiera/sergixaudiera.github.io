@@ -3,7 +3,7 @@ layout: default
 ---
 <header>
 	<h1>Hi, my name is <a href="/">Sergi Xaudiera</a>.</h1>
-	<aside>I'm a PhD candidate interested in internet</aside>
+	<aside>I'm a PhD student interested in social science and internet</aside>
 </header>
 
 ~
