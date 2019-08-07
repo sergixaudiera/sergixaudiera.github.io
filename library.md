@@ -8,6 +8,7 @@ permalink: /library/
 
 |**2019** | | |
 | :---- | ------| ---: |
+| 201908 | Shoe dog - Phil Knight|
 | 201906 | 21 lliçons per al segle XXI - Yuval Noah Harari|*|
 | 201906 | Un viatge a l'Índia - Gonçalo M. Tavares|*|
 | 201905 | Resistencia digital - Críptica|
