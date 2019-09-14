@@ -8,6 +8,7 @@ permalink: /library/
 
 |**2019** | | |
 | :---- | ------| ---: |
+| 201909 | Capvespre - Kent Haruf|*|
 | 201908 | Cançó de la plana - Kent Haruf|*|
 | 201908 | L'estrany - Albert Camus|
 | 201908 | Shoe dog - Phil Knight|
