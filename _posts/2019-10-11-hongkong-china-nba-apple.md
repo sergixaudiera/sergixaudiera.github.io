@@ -63,8 +63,13 @@ At same time  Apple removed hkmap.live from app store, an app that geo-point rio
 
 
 [★ Daniel Victor, The New York Times](https://www.nytimes.com/2019/10/07/sports/basketball/nba-china-hong-kong.html)
+
 [★ Joe Tsai, personal Facebook page](https://www.facebook.com/100001583307192/posts/2653378931391524)
+
 [★ Avi Wolfman-Arent, WHYY](https://whyy.org/articles/a-sixers-fan-brought-a-free-hong-kong-sign-to-tuesdays-game-heres-what-happened-next/)
+
 [★ Keith Bradsher and Javier C. Hernández, The New York Times](https://www.nytimes.com/2019/10/10/business/china-blows-whistle-on-nationalist-protests-against-the-nba.html?smid=nytcore-ios-share)
+
 [★ Michael Powell, The New York Times](https://www.nytimes.com/2019/10/07/sports/basketball/nba-china-powell.html)
+
 [★ Jack Nicas, The New York Times](https://www.nytimes.com/2019/10/09/technology/apple-hong-kong-app.html)
