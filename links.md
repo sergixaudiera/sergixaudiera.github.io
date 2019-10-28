@@ -8,6 +8,7 @@ permalink: /links/
 
 **Apps**  
 [Firefox](https://www.mozilla.org/en-US/firefox/new/){:rel="nofollow"} ·
+[Brave](https://brave.com/){:rel="nofollow"} ·
 [Gephi](https://gephi.org/){:rel="nofollow"} ·
 [KeePass](https://keepass.info/){:rel="nofollow"}{:rel="nofollow"} ·
 [OpenRefine](http://openrefine.org/){:rel="nofollow"} ·
@@ -32,7 +33,9 @@ permalink: /links/
 **Podcast**  
 [El reverso](https://www.m21radio.es/programas/el-reverso){:rel="nofollow"} ·
 [IRL](https://irlpodcast.org/){:rel="nofollow"} ·
+[mixx.io](https://mixx.io/){:rel="nofollow"} ·
 [Note to Self](https://www.wnycstudios.org/shows/notetoself){:rel="nofollow"} ·
+[La Sotana](https://www.patreon.com/lasotana){:rel="nofollow"} ·
 [Sound matters](http://journal.beoplay.com/journal/sound-matters){:rel="nofollow"}
 
 **Docus**
@@ -40,10 +43,14 @@ permalink: /links/
 
 **How-tos and fixes**  
 - [Google Personal Information Removal Request Form](https://www.google.com/webmasters/tools/legal-removal-request?complaint_type=rtbf){:rel="nofollow"}  
-- [Registrar un domini](https://hover.com/03kaZTmW){:rel="nofollow"}  
-- [Verificar un perfil de Twitter](https://verification.twitter.com/){:rel="nofollow"}  
+- [Register a domain with Hover (ref)](https://hover.com/03kaZTmW){:rel="nofollow"}  
+- [Verify Twitter account](https://verification.twitter.com/){:rel="nofollow"}  
 - [Cybersecurity Campaign Playbook](https://www.belfercenter.org/cyberplaybook){:rel="nofollow"}  
 - [Basic security precautions for non-profits and journalists](https://techsolidarity.org/resources/basic_security.htm){:rel="nofollow"}
-- [Consells usabilitat](https://goodui.org/){:rel="nofollow"}  
-- [Consells accessibilitat](https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts){:rel="nofollow"}  
+- [Usability tips](https://goodui.org/){:rel="nofollow"}  
+- [Accessibility tips](https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts){:rel="nofollow"}  
 - [BBC Visual and Data Journalism cookbook for R graphics](https://bbc.github.io/rcookbook/){:rel="nofollow"} 
+
+**Ads report**  
+[Facebook Ad Library](https://www.facebook.com/ads/library/report/){:rel="nofollow"}  ·
+[Google Ads Report](https://transparencyreport.google.com/political-ads/region/ES){:rel="nofollow"}  
