@@ -8,8 +8,8 @@ permalink: /library/
 
 |**2019** | | |
 | :---- | ------| ---: |
-| 201912 | Soldados de Salamina - Javier Cercas|*|
-| 201911 | The Craft of Research - Wayne C. Boot et al.|*|
+| 201912 | Soldados de Salamina - Javier Cercas|
+| 201911 | The Craft of Research - Wayne C. Boot et al.|
 | 201909 | Capvespre - Kent Haruf|*|
 | 201908 | Cançó de la plana - Kent Haruf|*|
 | 201908 | L'estrany - Albert Camus|
