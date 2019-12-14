@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bluesky: Twitter Announces Effort to Build Decentralized Standard for Social Media
+title: Bluesky Twitter Announces Effort to Build Decentralized Standard for Social Media
 date: 2019-12-12 10:47
 categories: [micro, platforms]
 ---
