@@ -13,9 +13,9 @@ permalink: /about/
 ~
 
 **academic**  
-**Doctoral program, Information and Knowledge Society**
-Universitat Oberta de Catalunya
-2019 - Present
+**Doctoral program, Information and Knowledge Society**  
+Universitat Oberta de Catalunya  
+2019 - Present  
 
 **Master's degree, Information and Knowledge Society**    
 Universitat Oberta de Catalunya  
