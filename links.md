@@ -6,13 +6,24 @@ permalink: /links/
 ---
 <aside>Useful tools, apps, and contents</aside>  
 
-**Apps**  
+**Desktop Apps**  
 [Firefox](https://www.mozilla.org/en-US/firefox/new/){:rel="nofollow"} ·
 [Brave](https://brave.com/){:rel="nofollow"} ·
 [Gephi](https://gephi.org/){:rel="nofollow"} ·
 [KeePass](https://keepass.info/){:rel="nofollow"}{:rel="nofollow"} ·
 [OpenRefine](http://openrefine.org/){:rel="nofollow"} ·
 [Rstudio](https://www.rstudio.com/){:rel="nofollow"}
+
+**Mobile Apps**  
+[Brave](https://brave.com/){:rel="nofollow"} ·
+[Pocket Casts](https://www.pocketcasts.com/){:rel="nofollow"} ·
+[Reeder](https://reederapp.com/){:rel="nofollow"} ·
+
+**Web-apps**  
+[Feedly](https://feedly.com){:rel="nofollow"} ·
+[Pocket](https://app.getpocket.com/){:rel="nofollow"} ·
+[Sci-Hub](https://sci-hub.tw/){:rel="nofollow"} ·
+[Trello](https://trello.com){:rel="nofollow"}
 
 **Browser addons**  
 [BetterTweetDeck](https://better.tw/){:rel="nofollow"} · 
@@ -24,18 +35,13 @@ permalink: /links/
 [uBlock Origin](https://github.com/gorhill/uBlock){:rel="nofollow"} ·
 [Wappalyzer](https://www.wappalyzer.com/){:rel="nofollow"}
 
-**Web-apps**  
-[Feedly](https://feedly.com){:rel="nofollow"} ·
-[Pocket](https://app.getpocket.com/){:rel="nofollow"} ·
-[Sci-Hub](https://sci-hub.tw/){:rel="nofollow"} ·
-[Trello](https://trello.com){:rel="nofollow"}
-
 **Podcast**  
 [El reverso](https://www.m21radio.es/programas/el-reverso){:rel="nofollow"} ·
 [IRL](https://irlpodcast.org/){:rel="nofollow"} ·
 [mixx.io](https://mixx.io/){:rel="nofollow"} ·
 [Note to Self](https://www.wnycstudios.org/shows/notetoself){:rel="nofollow"} ·
 [La Sotana](https://www.patreon.com/lasotana){:rel="nofollow"} ·
+[Your Undivided Attention](https://humanetech.com/podcast/){:rel="nofollow"} ·
 [Sound matters](http://journal.beoplay.com/journal/sound-matters){:rel="nofollow"}
 
 **Docus**
