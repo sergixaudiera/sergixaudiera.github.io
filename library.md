@@ -6,13 +6,17 @@ permalink: /library/
 ---
 <aside>Books I’ve read, recommendations with *</aside>
 
+|**2020** | | |
+| :---- | ------| ---: |
+| 202001 | Benedicció - Kent Haruf|*|
+
 |**2019** | | |
 | :---- | ------| ---: |
 | 201912 | Soldados de Salamina - Javier Cercas|
 | 201911 | The Craft of Research - Wayne C. Boot et al.|
 | 201909 | Capvespre - Kent Haruf|*|
 | 201908 | Cançó de la plana - Kent Haruf|*|
-| 201908 | L'estrany - Albert Camus|
+| 201908 | L'estrany - Albert Camus|*|
 | 201908 | Shoe dog - Phil Knight|
 | 201906 | 21 lliçons per al segle XXI - Yuval Noah Harari|*|
 | 201906 | Un viatge a l'Índia - Gonçalo M. Tavares|*|
