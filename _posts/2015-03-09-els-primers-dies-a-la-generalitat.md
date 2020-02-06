@@ -4,13 +4,13 @@ title: Els primers dies a la Generalitat
 date: 2015-03-06 14:55
 categories: [pro,portada]
 ---
-El dia 1 de març de 2010, va ser el meu primer dia de feina a la redacció [gencat](http://gencat.cat). Feia pocs mesos que havia tornat de Londres, on havia estat treballant a [We Are Social](http://wearesocial.net), i vaig tenir la sort de poder cobrir temporalment una vacant. Les meves tasques eren maquetar webs especials en hmtl i css.
+El dia 1 de març de 2010, va ser el meu primer dia de feina a la redacció [gencat](http://gencat.cat). Feia pocs mesos que havia tornat de Londres, on havia estat treballant a [We Are Social](http://wearesocial.net), i vaig tenir la sort de poder cobrir temporalment una vacant. Les meves tàsques eren maquetar webs especials en hmtl i css.
 
 La feina de maquetador web no era exactament el que buscava. Després de l'estada a Londres m'hagués agradat trobar una posició relacionada amb les xarxes socials, però en aquells moments no era senzill trobar una feina, i sort vaig tenir de trobar-ne una. A més, pel que vaig sentir a les diferents entrevistes, encara no es preveia l'impacte en la comunicació de les empreses i institucions que tindrien les xarxes socials.
 
-Bé de fet, potser encara no havien tingut la possibilitat d'ensenyar-nos les seves bondats.
+Bé de fet, potser encara no havíen tingut la possibilitat d'ensenyar-nos les seves bondats.
 
-El dia que celebrava la meva primera setmana a la Generalitat va passar la gran nevada. El 8 de març de 2010 va caure a Catalunya (especialment a la zona nord-est) la nevada més gran que jo recordo. Literalment va pararlitzar el país, i gran part dels catalans es van quedar col·lapsats a la carretera i incomunicats. 
+El dia que celebrava la meva primera setmana a la Generalitat va passar la gran nevada. El 8 de març de 2010 va caure a Catalunya (especialment a la zona nord-est) la nevada més gran que jo recordo. Literalment va paralitzar el país, i gran part dels catalans es van quedar col·lapsats a la carretera i incomunicats. 
 
 A mi, per sort, la nevada em va agafar a Barcelona. Encara no tenia pis, i dormia al sofà d'una amiga. A mig matí van donar l'alerta que hi podria haver problemes per tornar a casa i alguns companys van començar el camí. Jo m'ho vaig agafar sense presses, de fet dormir a l'oficina no hagués estat gaire diferent d'on vaig acabar dormint.
 
@@ -18,7 +18,7 @@ Des de primera hora del matí els ciutadans estaven pujant imatges de la nevada 
 
 El principal canal d'informació era el web [gencat](http://gencat.cat). Degut a l'allau de visites i a les males condiciones meteorologiques, tant els nostres servidors, com els d'altres mitjans de comunicació van començar a fallar. Van caure molts webs, i servidors de correu electrònic. També hi havia dificultats per veure els canals de televisió, així que la radio va anar guanyant pes al llarg del dia.
 
-Com més nevava, més informació en temps real necessitava la ciutadania. Carreteres tallades, afectacions al transport públic, previsió meteorologica, ...
+Com més nevava, més informació en temps real necessitava la ciutadania. Carreteres tallades, afectacions al transport públic, previsió meteorològica, ...
 
 Ens trobavem en la situació de tenir una informació de servei molt útil, però no disposavem del nostre principal canal informatiu.
 
@@ -28,9 +28,9 @@ Finalment, vam rebre l'autorització per engegar el perfil d'[@emergenciescat](h
 
 La rebuda al perfil va ser bona. Els usuaris agraien que la Generalitat utilitzés Twitter per informar del què estava passant a Catalunya. 
 
-Estàvem amb una mà tuitejant i l'altre al telèfon amb els equips de premsa de protecció civil, el servei català del trànsit, meteocat i interior. Tots els periodistes amb qui parlàvem estaven desbordats i en una situació de molt estrés. Jo encanvi m'ho vaig passar molt bé, la sensació d'ajudar persones era una satisfacció immediata molt gran.
+Estàvem amb una mà tuitejant i l'altre al telèfon amb els equips de premsa de protecció civil, el servei català del trànsit, meteocat i interior. Tots els periodistes amb qui parlàvem estaven desbordats i en una situació de molt estrès. Jo, en canvi, m'ho vaig passar molt bé, la sensació d'ajudar persones en una situació d'emergència era una satisfacció immediata molt gran.
 
-Una anecdota que recordo amb especial il·lusió té com a protagonista la ràdio. A l'oficina també l'escoltavem per si donaven alguna informació que sen's hagués passat per alt. En un moment de la tarda enmig d'un butlletí informatiu, en Jordi Basté el narrador, va parar i va llegir literalment un tuit que acabavem de publicar i va acabar dient "segons informa el perfil de Twitter d'Emergències de Catalunya". Coi! em va fer il·lusió veure com més enllà de tota la gent que estàvem ajudant a Twitter, també podíem fer arribar la informació a tota la gent que no tenia perfil a la xarxa social a través dels periodistes que ens llegien.
+Una anècdota que recordo amb especial il·lusió té com a protagonista la ràdio. A l'oficina també l'escoltavem per si donaven alguna informació que se'ns hagués passat per alt. En un moment de la tarda enmig d'un butlletí informatiu, en Jordi Basté el narrador, va parar i va llegir literalment un tuit que acabavem de publicar i va acabar dient "segons informa el perfil de Twitter d'Emergències de Catalunya". Coi! em va fer il·lusió veure com més enllà de tota la gent que estàvem ajudant a Twitter, també podíem fer arribar la informació a tota la gent que no tenia perfil a la xarxa social a través dels periodistes que ens llegien.
 
 Poca gent tenia Twitter abans de la nevada. Molt poques organitzacions tenien perfil oficial de servei. Aquest dia moltes administracions, institucions i marques van descobrir el potencial de les noves eines de comunicació digital.
 
