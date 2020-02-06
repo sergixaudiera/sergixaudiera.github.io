@@ -24,7 +24,7 @@ Ens trobavem en la situació de tenir una informació de servei molt útil, per�
 
 En aquest moment va passar per l'aire la idea de crear un perfil de Twitter. Com podeu imaginar van passar unes hores des de l'aparició de la idea fins que vam publicar el primer tuit. Entendreu que el que va passar en aquest interval queda reservat a la memòria dels presents.
 
-Finalment, vaig rebre l'autorització per engegar el perfil d'[@emergenciescat](http://twitter.com/emergenciescat). El matí ja havia registrat el nom, per si de cas, i adoptar la imatge gràfica corporativa va ser ràpid. 
+Finalment, vam rebre l'autorització per engegar el perfil d'[@emergenciescat](http://twitter.com/emergenciescat). El matí ja havíem registrat el nom, per si de cas, i adoptar la imatge gràfica corporativa va ser ràpid. 
 
 La rebuda al perfil va ser bona. Els usuaris agraien que la Generalitat utilitzés Twitter per informar del què estava passant a Catalunya. 
 
