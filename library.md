@@ -8,6 +8,7 @@ permalink: /library/
 
 |**2020** | | |
 | :---- | ------| ---: |
+| 202002 | Gina - Maria Climent|
 | 202001 | Benedicció - Kent Haruf|*|
 
 |**2019** | | |
