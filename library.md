@@ -8,6 +8,7 @@ permalink: /library/
 
 |**2020** | | |
 | :---- | ------| ---: |
+| 202003 | The KGB and Soviet Disinformation - Ladislav Bittman|*|
 | 202002 | El enemigo conoce el sistema - Marta Peirano|
 | 202002 | Gina - Maria Climent|
 | 202001 | Benedicció - Kent Haruf|*|
