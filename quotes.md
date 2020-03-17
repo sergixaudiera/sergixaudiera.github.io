@@ -37,3 +37,5 @@ permalink: /quotes/
 - Depresión: exceso de pasado; estrés: exceso de presente; ansiedad: exceso de futuro  
 - “Happiness is when what you think, what you say, and what you do are in harmony” - Mahatma Gandhi  
 - "Everything you want is on the other side of hard"  
+- "Perfection is the enemy of the good"  
+
